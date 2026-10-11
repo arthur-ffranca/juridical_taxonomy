@@ -6,10 +6,8 @@ ZELLU — arquivos para GitHub Pages
    - inclua pastas ocultas: .nojekyll e _next
 
 2. Settings → Pages:
-   - Source: Deploy from a branch
-   - Branch: main
-   - Folder: / (root)
-   - Save
+   - Source: GitHub Actions
+   - O workflow ".github/workflows/jekyll-gh-pages.yml" publica automaticamente a branch main.
 
 3. Aguarde 1–2 min e abra:
    https://arthur-ffranca.github.io/juridical_taxonomy/
