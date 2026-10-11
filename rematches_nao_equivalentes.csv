@@ -1,0 +1,181 @@
+id,experimento,rejeitadoA,rejeitadoB,mateA_em_B,metodoA,mateB_em_A,metodoB,status
+V4-C001,contexto,TJMT:12740:de Conciliação,TJDFT:581:Documento,TJDFT:12740:de Conciliação,mesmo_codigo_tpu,TJMT:581:Documento,mesmo_codigo_tpu,ambos
+V4-C003,contexto,TRT10:1051:Decurso de Prazo,TRT1:85:Petição,TRT1:1051:Decurso de Prazo,mesmo_codigo_tpu,TRT10:85:Petição,mesmo_codigo_tpu,ambos
+V4-C004,contexto,TRT11:11010:Mero expediente,TRT1:434:Recurso de Revista,TRT1:11010:Mero expediente,mesmo_codigo_tpu,TRT11:434:Recurso de Revista,mesmo_codigo_tpu,ambos
+V4-C006,contexto,TRT8:1051:Decurso de Prazo,TRT10:123:Remessa,TRT10:1051:Decurso de Prazo,mesmo_codigo_tpu,TRT8:123:Remessa,mesmo_codigo_tpu,ambos
+V4-C007,contexto,TRT1:11022:Julgamento em Diligência,TRT13:132:Recebimento,TRT13:11022:Julgamento em Diligência,mesmo_codigo_tpu,TRT1:132:Recebimento,mesmo_codigo_tpu,ambos
+V4-C008,contexto,TJPE:11010:Mero expediente,TJES:461:Ausência das condições da ação,TJES:11010:Mero expediente,mesmo_codigo_tpu,TJPE:461:Ausência das condições da ação,mesmo_codigo_tpu,ambos
+V4-C009,contexto,TJMMG:1051:Decurso de Prazo,TJMRS:581:Documento,TJMRS:1051:Decurso de Prazo,mesmo_codigo_tpu,TJMMG:581:Documento,mesmo_codigo_tpu,ambos
+V4-C010,contexto,TJDFT:106:Mandado,TJAM:123:Remessa,TJAM:106:Mandado,mesmo_codigo_tpu,TJDFT:123:Remessa,mesmo_codigo_tpu,ambos
+V4-C011,contexto,TJAC:12164:Outras Decisões,TJMT:941:Incompetência,TJMT:12164:Outras Decisões,mesmo_codigo_tpu,TJAC:941:Incompetência,mesmo_codigo_tpu,ambos
+V4-C012,contexto,TJCE:391:Denúncia,TJDFT:581:Documento,TJDFT:391:Denúncia,mesmo_codigo_tpu,TJCE:581:Documento,mesmo_codigo_tpu,ambos
+V4-C014,contexto,TJTO:12291:Movimentação processual,TJAC:60:Expedição de documento,TJAC:12291:Movimentação processual,mesmo_codigo_tpu,TJTO:60:Expedição de documento,mesmo_codigo_tpu,ambos
+V4-C015,contexto,TJMT:11383:Ato ordinatório,TJCE:85:Petição,TJCE:11383:Ato ordinatório,mesmo_codigo_tpu,TJMT:85:Petição,mesmo_codigo_tpu,ambos
+V4-C016,contexto,TJPR:12266:Confirmada,STM:12282:Expedida/Certificada,STM:12266:Confirmada,mesmo_codigo_tpu,TJPR:12282:Expedida/Certificada,mesmo_codigo_tpu,ambos
+V4-C018,contexto,TJMMG:51:Conclusão,STM:60:Expedição de documento,STM:51:Conclusão,mesmo_codigo_tpu,TJMMG:60:Expedição de documento,mesmo_codigo_tpu,ambos
+V4-C019,contexto,STM:11383:Ato ordinatório,TJMRS:12143:Mudança de Assunto Processual,TJMRS:11383:Ato ordinatório,mesmo_codigo_tpu,STM:12143:Mudança de Assunto Processual,mesmo_codigo_tpu,ambos
+V4-C020,contexto,TJAC:132:Recebimento,TJCE:581:Documento,TJCE:132:Recebimento,mesmo_codigo_tpu,TJAC:581:Documento,mesmo_codigo_tpu,ambos
+V4-C021,contexto,TJPA:1051:Decurso de Prazo,TJPR:123:Remessa,TJPR:1051:Decurso de Prazo,mesmo_codigo_tpu,TJPA:123:Remessa,mesmo_codigo_tpu,ambos
+V4-C022,contexto,TJPR:12266:Confirmada,TJDFT:60:Expedição de documento,TJDFT:12266:Confirmada,datajud_codigo,TJPR:60:Expedição de documento,mesmo_codigo_tpu,ambos
+V4-C024,contexto,TJES:11010:Mero expediente,TRF4:85:Petição,TRF4:11010:Mero expediente,mesmo_codigo_tpu,TJES:85:Petição,mesmo_codigo_tpu,ambos
+V4-C025,contexto,TJAC:581:Documento,TJBA:85:Petição,TJBA:581:Documento,mesmo_codigo_tpu,TJAC:85:Petição,mesmo_codigo_tpu,ambos
+V4-C026,contexto,TJCE:11010:Mero expediente,TJES:581:Documento,TJES:11010:Mero expediente,mesmo_codigo_tpu,TJCE:581:Documento,mesmo_codigo_tpu,ambos
+V4-C027,contexto,TJRO:11010:Mero expediente,TJBA:466:Homologação de Transação,TJBA:11010:Mero expediente,mesmo_codigo_tpu,TJRO:466:Homologação de Transação,mesmo_codigo_tpu,ambos
+V4-C028,contexto,TRT12:196:Extinção da execução ou do cumprimento da sentença,TRT1:466:Homologação de Transação,TRT1:196:Extinção da execução ou do cumprimento da sentença,mesmo_codigo_tpu,TRT12:466:Homologação de Transação,mesmo_codigo_tpu,ambos
+V4-C029,contexto,TRT1:11010:Mero expediente,TRT17:332:Antecipação de tutela,TRT17:11010:Mero expediente,mesmo_codigo_tpu,TRT1:332:Antecipação de tutela,mesmo_codigo_tpu,ambos
+V4-C030,contexto,TJDFT:1051:Decurso de Prazo,TJPE:85:Petição,TJPE:1051:Decurso de Prazo,mesmo_codigo_tpu,TJDFT:85:Petição,mesmo_codigo_tpu,ambos
+V4-C033,contexto,TJAC:11010:Mero expediente,TJDFT:12430:Arquivamento,TJDFT:11010:Mero expediente,mesmo_codigo_tpu,TJAC:12430:Arquivamento,mesmo_codigo_tpu,ambos
+V4-C034,contexto,TRT17:123:Remessa,TRT24:85:Petição,TRT24:123:Remessa,mesmo_codigo_tpu,TRT17:85:Petição,mesmo_codigo_tpu,ambos
+V4-C035,contexto,TJPR:12740:de Conciliação,TJRO:893:Desarquivamento,TJRO:12740:de Conciliação,datajud_codigo,TJPR:893:Desarquivamento,mesmo_codigo_tpu,ambos
+V4-C036,contexto,TRT1:1051:Decurso de Prazo,TRT14:123:Remessa,TRT14:1051:Decurso de Prazo,mesmo_codigo_tpu,TRT1:123:Remessa,mesmo_codigo_tpu,ambos
+V4-C037,contexto,TRF1:106:Mandado,TRF4:123:Remessa,TRF4:106:Mandado,mesmo_codigo_tpu,TRF1:123:Remessa,mesmo_codigo_tpu,ambos
+V4-C038,contexto,TRT14:1051:Decurso de Prazo,TJMS:85:Petição,TJMS:1051:Decurso de Prazo,mesmo_codigo_tpu,TRT14:85:Petição,mesmo_codigo_tpu,ambos
+V4-C039,contexto,TJGO:12265:Expedida/certificada,TJAP:581:Documento,TJAP:12265:Expedida/certificada,mesmo_codigo_tpu,TJGO:581:Documento,mesmo_codigo_tpu,ambos
+V4-C041,contexto,TJCE:454:Indeferimento da petição inicial,TRF1:463:Desistência,TRF1:454:Indeferimento da petição inicial,mesmo_codigo_tpu,TJCE:463:Desistência,mesmo_codigo_tpu,ambos
+V4-C042,contexto,TJAL:581:Documento,TJAM:60:Expedição de documento,TJAM:581:Documento,mesmo_codigo_tpu,TJAL:60:Expedição de documento,datajud_codigo,ambos
+V4-C043,contexto,TJSE:11010:Mero expediente,TJAM:36:Redistribuição,TJAM:11010:Mero expediente,mesmo_codigo_tpu,TJSE:36:Redistribuição,datajud_codigo,ambos
+V4-C045,contexto,TJMT:11383:Ato ordinatório,TJPE:581:Documento,TJPE:11383:Ato ordinatório,mesmo_codigo_tpu,TJMT:581:Documento,mesmo_codigo_tpu,ambos
+V4-C046,contexto,TJPB:11010:Mero expediente,TJRO:12164:Outras Decisões,TJRO:11010:Mero expediente,mesmo_codigo_tpu,TJPB:12164:Outras Decisões,mesmo_codigo_tpu,ambos
+V4-C047,contexto,TRF1:11010:Mero expediente,TJAM:12459:Prejudicado,TJAM:11010:Mero expediente,mesmo_codigo_tpu,TRF1:12459:Prejudicado,datajud_codigo,ambos
+V4-C048,contexto,TJAM:135:Apensamento,TJGO:60:Expedição de documento,TJGO:135:Apensamento,datajud_codigo,TJAM:60:Expedição de documento,mesmo_codigo_tpu,ambos
+V4-C049,contexto,TJES:1051:Decurso de Prazo,TJAP:14739:Evolução da Classe Processual,TJAP:1051:Decurso de Prazo,mesmo_codigo_tpu,TJES:14739:Evolução da Classe Processual,mesmo_codigo_tpu,ambos
+V4-C050,contexto,TJRR:1051:Decurso de Prazo,TJES:60:Expedição de documento,TJES:1051:Decurso de Prazo,mesmo_codigo_tpu,TJRR:60:Expedição de documento,mesmo_codigo_tpu,ambos
+V4-C051,contexto,TJAP:1051:Decurso de Prazo,TJAM:581:Documento,TJAM:1051:Decurso de Prazo,mesmo_codigo_tpu,TJAP:581:Documento,mesmo_codigo_tpu,ambos
+V4-C052,contexto,TJMRS:11383:Ato ordinatório,TJAM:581:Documento,TJAM:11383:Ato ordinatório,mesmo_codigo_tpu,TJMRS:581:Documento,mesmo_codigo_tpu,ambos
+V4-C054,contexto,TJMMG:12265:Expedida/certificada,TJGO:60:Expedição de documento,TJGO:12265:Expedida/certificada,mesmo_codigo_tpu,TJMMG:60:Expedição de documento,mesmo_codigo_tpu,ambos
+V4-C055,contexto,TJMS:123:Remessa,TJGO:132:Recebimento,TJGO:123:Remessa,mesmo_codigo_tpu,TJMS:132:Recebimento,mesmo_codigo_tpu,ambos
+V4-C056,contexto,TJES:51:Conclusão,TJAM:85:Petição,TJAM:51:Conclusão,mesmo_codigo_tpu,TJES:85:Petição,mesmo_codigo_tpu,ambos
+V4-C057,contexto,TJAP:60:Expedição de documento,TJPA:848:Trânsito em julgado,TJPA:60:Expedição de documento,mesmo_codigo_tpu,TJAP:848:Trânsito em julgado,mesmo_codigo_tpu,ambos
+V4-C058,contexto,TJAP:14736:Inclusão no Juízo 100% Digital,TJMRS:85:Petição,TJMRS:14736:Inclusão no Juízo 100% Digital,mesmo_codigo_tpu,TJAP:85:Petição,mesmo_codigo_tpu,ambos
+V4-C059,contexto,TRT11:132:Recebimento,TRT10:36:Redistribuição,TRT10:132:Recebimento,mesmo_codigo_tpu,TRT11:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-C060,contexto,TJAP:12283:Confirmada,TJCE:60:Expedição de documento,TJCE:12283:Confirmada,mesmo_codigo_tpu,TJAP:60:Expedição de documento,mesmo_codigo_tpu,ambos
+V4-C061,contexto,TJDFT:581:Documento,TJES:85:Petição,TJES:581:Documento,mesmo_codigo_tpu,TJDFT:85:Petição,mesmo_codigo_tpu,ambos
+V4-C062,contexto,TJCE:581:Documento,TJRO:85:Petição,TJRO:581:Documento,mesmo_codigo_tpu,TJCE:85:Petição,mesmo_codigo_tpu,ambos
+V4-C063,contexto,TJAP:11010:Mero expediente,TJMT:787:Gratuidade da Justiça,TJMT:11010:Mero expediente,mesmo_codigo_tpu,TJAP:787:Gratuidade da Justiça,mesmo_codigo_tpu,ambos
+V4-C066,contexto,TRF1:11010:Mero expediente,TRT12:219:Procedência,TRT12:11010:Mero expediente,mesmo_codigo_tpu,TRF1:219:Procedência,mesmo_codigo_tpu,ambos
+V4-C067,contexto,TRT8:219:Procedência,TRT20:459:Ausência de pressupostos processuais,TRT20:219:Procedência,mesmo_codigo_tpu,TRT8:459:Ausência de pressupostos processuais,mesmo_codigo_tpu,ambos
+V4-C068,contexto,TJPB:11024:Assistência Judiciária Gratuita,TJCE:12185:Decisão Interlocutória de Mérito,TJCE:11024:Assistência Judiciária Gratuita,datajud_codigo,TJPB:12185:Decisão Interlocutória de Mérito,mesmo_codigo_tpu,ambos
+V4-C069,contexto,TJSP:60:Expedição de documento,TJAP:85:Petição,TJAP:60:Expedição de documento,mesmo_codigo_tpu,TJSP:85:Petição,mesmo_codigo_tpu,ambos
+V4-C071,contexto,TRT20:11020:Requisição de Informações,TRT14:12164:Outras Decisões,TRT14:11020:Requisição de Informações,mesmo_codigo_tpu,TRT20:12164:Outras Decisões,mesmo_codigo_tpu,ambos
+V4-C072,contexto,TJSC:11010:Mero expediente,TRF4:581:Documento,TRF4:11010:Mero expediente,mesmo_codigo_tpu,TJSC:581:Documento,mesmo_codigo_tpu,ambos
+V4-C073,contexto,TJMT:12296:Registro Processual,TJRR:60:Expedição de documento,TJRR:12296:Registro Processual,mesmo_codigo_tpu,TJMT:60:Expedição de documento,mesmo_codigo_tpu,ambos
+V4-C074,contexto,TJGO:60:Expedição de documento,TRT1:85:Petição,TRT1:60:Expedição de documento,mesmo_codigo_tpu,TJGO:85:Petição,mesmo_codigo_tpu,ambos
+V4-C076,contexto,TJMT:11383:Ato ordinatório,TJPB:85:Petição,TJPB:11383:Ato ordinatório,mesmo_codigo_tpu,TJMT:85:Petição,mesmo_codigo_tpu,ambos
+V4-C077,contexto,TRT16:11010:Mero expediente,TRT14:461:Ausência das condições da ação,TRT14:11010:Mero expediente,mesmo_codigo_tpu,TRT16:461:Ausência das condições da ação,mesmo_codigo_tpu,ambos
+V4-C078,contexto,TRT18:11010:Mero expediente,TRT24:196:Extinção da execução ou do cumprimento da sentença,TRT24:11010:Mero expediente,mesmo_codigo_tpu,TRT18:196:Extinção da execução ou do cumprimento da sentença,mesmo_codigo_tpu,ambos
+V4-C079,contexto,TJDFT:85:Petição,TJPA:982:Remessa,TJPA:85:Petição,mesmo_codigo_tpu,TJDFT:982:Remessa,mesmo_codigo_tpu,ambos
+V4-C080,contexto,TJPB:106:Mandado,TJPR:11010:Mero expediente,TJPR:106:Mandado,mesmo_codigo_tpu,TJPB:11010:Mero expediente,mesmo_codigo_tpu,ambos
+V4-C081,contexto,TJAM:581:Documento,TRT20:985:Mandado,TRT20:581:Documento,mesmo_codigo_tpu,TJAM:985:Mandado,mesmo_codigo_tpu,ambos
+V4-C082,contexto,TJRJ:11010:Mero expediente,TJPE:11383:Ato ordinatório,TJPE:11010:Mero expediente,mesmo_codigo_tpu,TJRJ:11383:Ato ordinatório,mesmo_codigo_tpu,ambos
+V4-C083,contexto,TJCE:11010:Mero expediente,TJPE:458:Abandono da causa,TJPE:11010:Mero expediente,mesmo_codigo_tpu,TJCE:458:Abandono da causa,mesmo_codigo_tpu,ambos
+V4-C084,contexto,TJAM:581:Documento,TJAC:60:Expedição de documento,TJAC:581:Documento,mesmo_codigo_tpu,TJAM:60:Expedição de documento,mesmo_codigo_tpu,ambos
+V4-C085,contexto,TRT21:1051:Decurso de Prazo,TJMA:581:Documento,TJMA:1051:Decurso de Prazo,mesmo_codigo_tpu,TRT21:581:Documento,mesmo_codigo_tpu,ambos
+V4-C086,contexto,TRT14:11010:Mero expediente,TRT18:15101:Conclusão,TRT18:11010:Mero expediente,mesmo_codigo_tpu,TRT14:15101:Conclusão,mesmo_codigo_tpu,ambos
+V4-C087,contexto,TRF1:12066:Cumprimento de Levantamento da Suspensão ,TJES:51:Conclusão,TJES:12066:Cumprimento de Levantamento da Suspensão ,mesmo_codigo_tpu,TRF1:51:Conclusão,mesmo_codigo_tpu,ambos
+V4-C088,contexto,TJPA:60:Expedição de documento,TJMT:85:Petição,TJMT:60:Expedição de documento,mesmo_codigo_tpu,TJPA:85:Petição,mesmo_codigo_tpu,ambos
+V4-C089,contexto,TJPB:106:Mandado,TJPA:48:Escrivão/Diretor de Secretaria/Secretário Jurídico,TJPA:106:Mandado,mesmo_codigo_tpu,TJPB:48:Escrivão/Diretor de Secretaria/Secretário Jurídico,datajud_codigo,ambos
+V4-C090,contexto,TJRR:12290:Documento Expedido,TJPE:581:Documento,,,TJRR:581:Documento,mesmo_codigo_tpu,um_lado
+V4-C092,contexto,TJPB:14736:Inclusão no Juízo 100% Digital,TJES:51:Conclusão,TJES:14736:Inclusão no Juízo 100% Digital,datajud_codigo,TJPB:51:Conclusão,mesmo_codigo_tpu,ambos
+V4-C093,contexto,TJRR:11383:Ato ordinatório,TJPA:493:Entrega em carga/vista,TJPA:11383:Ato ordinatório,mesmo_codigo_tpu,TJRR:493:Entrega em carga/vista,mesmo_codigo_tpu,ambos
+V4-C094,contexto,STM:12265:Expedida/certificada,TJDFT:60:Expedição de documento,TJDFT:12282:Expedida/Certificada,mesmo_nome_normalizado,STM:60:Expedição de documento,mesmo_codigo_tpu,ambos
+V4-C095,contexto,TJAP:123:Remessa,TJPI:60:Expedição de documento,TJPI:123:Remessa,mesmo_codigo_tpu,TJAP:60:Expedição de documento,mesmo_codigo_tpu,ambos
+V4-C096,contexto,TJPR:12293:Ato cumprido pela parte ou interessado (sem atributo),TJAP:60:Expedição de documento,,,TJPR:60:Expedição de documento,mesmo_codigo_tpu,um_lado
+V4-C097,contexto,TRT1:1051:Decurso de Prazo,TJAP:12291:Movimentação processual,TJAP:1051:Decurso de Prazo,mesmo_codigo_tpu,TRT1:12291:Movimentação processual,mesmo_codigo_tpu,ambos
+V4-C098,contexto,TRF1:12066:Cumprimento de Levantamento da Suspensão ,TRF5:85:Petição,TRF5:12066:Cumprimento de Levantamento da Suspensão ,mesmo_codigo_tpu,TRF1:85:Petição,mesmo_codigo_tpu,ambos
+V4-C099,contexto,TJAC:60:Expedição de documento,TJAP:85:Petição,TJAP:60:Expedição de documento,mesmo_codigo_tpu,TJAC:85:Petição,mesmo_codigo_tpu,ambos
+V4-C100,contexto,TJGO:51:Conclusão,TJRN:581:Documento,TJRN:51:Conclusão,mesmo_codigo_tpu,TJGO:581:Documento,mesmo_codigo_tpu,ambos
+V4-C101,contexto,TJES:196:Extinção da execução ou do cumprimento da sentença,TJAC:60:Expedição de documento,TJAC:196:Extinção da execução ou do cumprimento da sentença,mesmo_codigo_tpu,TJES:60:Expedição de documento,mesmo_codigo_tpu,ambos
+V4-C102,contexto,TJAM:51:Conclusão,TJCE:581:Documento,TJCE:51:Conclusão,mesmo_codigo_tpu,TJAM:581:Documento,mesmo_codigo_tpu,ambos
+V4-C103,contexto,TJPB:1051:Decurso de Prazo,TJAC:12282:Expedida/Certificada,TJAC:1051:Decurso de Prazo,mesmo_codigo_tpu,TJPB:12282:Expedida/Certificada,mesmo_codigo_tpu,ambos
+V4-C104,contexto,TJPA:11009:Despacho,TJAC:581:Documento,TJAC:11009:Despacho,mesmo_codigo_tpu,TJPA:581:Documento,mesmo_codigo_tpu,ambos
+V4-C105,contexto,TJSC:848:Trânsito em julgado,TJRN:85:Petição,TJRN:848:Trânsito em julgado,mesmo_codigo_tpu,TJSC:85:Petição,mesmo_codigo_tpu,ambos
+V4-C108,contexto,TRT22:123:Remessa,TRT11:132:Recebimento,TRT11:123:Remessa,mesmo_codigo_tpu,TRT22:132:Recebimento,mesmo_codigo_tpu,ambos
+V4-C110,contexto,TJMT:10966:Mudança de Classe Processual,TJAL:85:Petição,TJAL:10966:Mudança de Classe Processual,mesmo_codigo_tpu,TJMT:85:Petição,mesmo_codigo_tpu,ambos
+V4-C112,contexto,TRF4:12266:Confirmada,TJAM:60:Expedição de documento,TJAM:12283:Confirmada,mesmo_nome_normalizado,TRF4:60:Expedição de documento,mesmo_codigo_tpu,ambos
+V4-C113,contexto,TJMT:11383:Ato ordinatório,TJBA:221:Procedência em Parte,TJBA:11383:Ato ordinatório,mesmo_codigo_tpu,TJMT:221:Procedência em Parte,mesmo_codigo_tpu,ambos
+V4-C114,contexto,TJSC:132:Recebimento,TJAC:60:Expedição de documento,TJAC:132:Recebimento,mesmo_codigo_tpu,TJSC:60:Expedição de documento,mesmo_codigo_tpu,ambos
+V4-C115,contexto,TRF1:12282:Expedida/Certificada,TJDFT:60:Expedição de documento,TJDFT:12282:Expedida/Certificada,mesmo_codigo_tpu,TRF1:60:Expedição de documento,mesmo_codigo_tpu,ambos
+V4-C116,contexto,TJAC:12164:Outras Decisões,TJMMG:581:Documento,TJMMG:12164:Outras Decisões,mesmo_codigo_tpu,TJAC:581:Documento,mesmo_codigo_tpu,ambos
+V4-C117,contexto,TRF1:85:Petição,TJRR:893:Desarquivamento,TJRR:85:Petição,mesmo_codigo_tpu,TRF1:893:Desarquivamento,mesmo_codigo_tpu,ambos
+V4-C118,contexto,TJRJ:1061:Disponibilização no Diário da Justiça Eletrônico,TJAC:132:Recebimento,TJAC:1061:Disponibilização no Diário da Justiça Eletrônico,mesmo_codigo_tpu,TJRJ:979:Recebimento,mesmo_nome_normalizado,ambos
+V4-C119,contexto,TJSC:12174:Enviada ao Tribunal,TJRS:85:Petição,TJRS:12167:Enviada ao Tribunal,mesmo_nome_normalizado,TJSC:85:Petição,mesmo_codigo_tpu,ambos
+V4-C120,contexto,TJAP:106:Mandado,STM:60:Expedição de documento,STM:106:Mandado,mesmo_codigo_tpu,TJAP:60:Expedição de documento,mesmo_codigo_tpu,ambos
+V4-H001,hard_negatives,TJDFT:26:Distribuição,TJMT:36:Redistribuição,TJMT:26:Distribuição,mesmo_codigo_tpu,TJDFT:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H002,hard_negatives,TRT1:26:Distribuição,TRT10:36:Redistribuição,TRT10:26:Distribuição,mesmo_codigo_tpu,TRT1:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H003,hard_negatives,TRT14:198:Acolhimento de Embargos de Declaração,TRT1:200:Não-Acolhimento de Embargos de Declaração,TRT1:198:Acolhimento de Embargos de Declaração,mesmo_codigo_tpu,TRT14:200:Não-Acolhimento de Embargos de Declaração,mesmo_codigo_tpu,ambos
+V4-H004,hard_negatives,TRT1:198:Acolhimento de Embargos de Declaração,TRF2:200:Não-Acolhimento de Embargos de Declaração,TRF2:198:Acolhimento de Embargos de Declaração,mesmo_codigo_tpu,TRT1:200:Não-Acolhimento de Embargos de Declaração,mesmo_codigo_tpu,ambos
+V4-H005,hard_negatives,TRT10:26:Distribuição,TRT8:36:Redistribuição,TRT8:26:Distribuição,mesmo_codigo_tpu,TRT10:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H006,hard_negatives,TJES:26:Distribuição,TJPE:36:Redistribuição,TJPE:26:Distribuição,mesmo_codigo_tpu,TJES:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H007,hard_negatives,TJMMG:26:Distribuição,TJMRS:36:Redistribuição,TJMRS:26:Distribuição,mesmo_codigo_tpu,TJMMG:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H008,hard_negatives,TJAM:135:Apensamento,TJDFT:137:Desapensamento,TJDFT:135:Apensamento,mesmo_codigo_tpu,TJAM:137:Desapensamento,mesmo_codigo_tpu,ambos
+V4-H009,hard_negatives,TJMT:26:Distribuição,TJAC:36:Redistribuição,TJAC:26:Distribuição,mesmo_codigo_tpu,TJMT:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H010,hard_negatives,TJCE:26:Distribuição,TJES:36:Redistribuição,TJES:26:Distribuição,mesmo_codigo_tpu,TJCE:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H011,hard_negatives,TJAP:26:Distribuição,TJPI:36:Redistribuição,TJPI:26:Distribuição,mesmo_codigo_tpu,TJAP:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H012,hard_negatives,STM:26:Distribuição,TRF1:36:Redistribuição,TRF1:26:Distribuição,mesmo_codigo_tpu,STM:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H013,hard_negatives,TRT10:198:Acolhimento de Embargos de Declaração,TRT14:200:Não-Acolhimento de Embargos de Declaração,TRT14:198:Acolhimento de Embargos de Declaração,mesmo_codigo_tpu,TRT10:200:Não-Acolhimento de Embargos de Declaração,mesmo_codigo_tpu,ambos
+V4-H014,hard_negatives,STM:26:Distribuição,TJMMG:36:Redistribuição,TJMMG:26:Distribuição,mesmo_codigo_tpu,STM:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H015,hard_negatives,TJAC:26:Distribuição,TJCE:36:Redistribuição,TJCE:26:Distribuição,mesmo_codigo_tpu,TJAC:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H016,hard_negatives,TJRO:26:Distribuição,TJTO:36:Redistribuição,TJTO:26:Distribuição,mesmo_codigo_tpu,TJRO:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H017,hard_negatives,TRF3:198:Acolhimento de Embargos de Declaração,TRF4:200:Não-Acolhimento de Embargos de Declaração,TRF4:198:Acolhimento de Embargos de Declaração,mesmo_codigo_tpu,TRF3:200:Não-Acolhimento de Embargos de Declaração,mesmo_codigo_tpu,ambos
+V4-H018,hard_negatives,TJAC:26:Distribuição,TJMG:36:Redistribuição,TJMG:26:Distribuição,mesmo_codigo_tpu,TJAC:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H019,hard_negatives,TJAC:26:Distribuição,TJBA:36:Redistribuição,TJBA:26:Distribuição,mesmo_codigo_tpu,TJAC:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H020,hard_negatives,TJCE:26:Distribuição,TJPE:36:Redistribuição,TJPE:26:Distribuição,mesmo_codigo_tpu,TJCE:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H021,hard_negatives,TJAC:26:Distribuição,TJTO:36:Redistribuição,TJTO:26:Distribuição,mesmo_codigo_tpu,TJAC:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H022,hard_negatives,TRT1:198:Acolhimento de Embargos de Declaração,TRT11:200:Não-Acolhimento de Embargos de Declaração,TRT11:198:Acolhimento de Embargos de Declaração,mesmo_codigo_tpu,TRT1:200:Não-Acolhimento de Embargos de Declaração,mesmo_codigo_tpu,ambos
+V4-H023,hard_negatives,TRT11:26:Distribuição,TRT18:36:Redistribuição,TRT18:26:Distribuição,mesmo_codigo_tpu,TRT11:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H024,hard_negatives,TJDFT:26:Distribuição,TJPE:36:Redistribuição,TJPE:26:Distribuição,mesmo_codigo_tpu,TJDFT:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H025,hard_negatives,TJMS:26:Distribuição,TJAM:36:Redistribuição,TJAM:26:Distribuição,mesmo_codigo_tpu,TJMS:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H026,hard_negatives,TJDFT:12430:Arquivamento,TJPA:893:Desarquivamento,TJPA:861:Arquivamento,mesmo_nome_normalizado,TJDFT:893:Desarquivamento,mesmo_codigo_tpu,ambos
+V4-H027,hard_negatives,TJMS:26:Distribuição,TRT14:36:Redistribuição,TRT14:26:Distribuição,mesmo_codigo_tpu,TJMS:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H028,hard_negatives,TJGO:26:Distribuição,TJAP:36:Redistribuição,TJAP:26:Distribuição,mesmo_codigo_tpu,TJGO:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H029,hard_negatives,TJPA:26:Distribuição,TJPR:36:Redistribuição,TJPR:26:Distribuição,mesmo_codigo_tpu,TJPA:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H030,hard_negatives,TJCE:26:Distribuição,TJDFT:36:Redistribuição,TJDFT:26:Distribuição,mesmo_codigo_tpu,TJCE:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H031,hard_negatives,TJAM:26:Distribuição,TJGO:36:Redistribuição,TJGO:26:Distribuição,mesmo_codigo_tpu,TJAM:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H032,hard_negatives,TRT13:26:Distribuição,TRT24:36:Redistribuição,TRT24:26:Distribuição,mesmo_codigo_tpu,TRT13:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H033,hard_negatives,TJAP:26:Distribuição,TJDFT:36:Redistribuição,TJDFT:26:Distribuição,mesmo_codigo_tpu,TJAP:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H034,hard_negatives,TJAP:14232:Acolhimento,TJSC:14233:Não-Acolhimento,TJSC:14232:Acolhimento,mesmo_codigo_tpu,TJAP:14233:Não-Acolhimento,datajud_codigo,ambos
+V4-H035,hard_negatives,TJAP:26:Distribuição,TRF1:36:Redistribuição,TRF1:26:Distribuição,mesmo_codigo_tpu,TJAP:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H037,hard_negatives,TJMRS:26:Distribuição,TJAM:36:Redistribuição,TJAM:26:Distribuição,mesmo_codigo_tpu,TJMRS:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H038,hard_negatives,TJGO:26:Distribuição,TJMMG:36:Redistribuição,TJMMG:26:Distribuição,mesmo_codigo_tpu,TJGO:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H039,hard_negatives,TJMS:26:Distribuição,TJGO:36:Redistribuição,TJGO:26:Distribuição,mesmo_codigo_tpu,TJMS:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H040,hard_negatives,TJAP:26:Distribuição,TJMT:36:Redistribuição,TJMT:26:Distribuição,mesmo_codigo_tpu,TJAP:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H041,hard_negatives,TRF5:220:Improcedência,TRT23:219:Procedência,TRT23:220:Improcedência,mesmo_codigo_tpu,TRF5:219:Procedência,mesmo_codigo_tpu,ambos
+V4-H042,hard_negatives,TRT11:220:Improcedência,TRT13:219:Procedência,TRT13:220:Improcedência,mesmo_codigo_tpu,TRT11:219:Procedência,mesmo_codigo_tpu,ambos
+V4-H043,hard_negatives,TST:26:Distribuição,TSE:36:Redistribuição,TSE:26:Distribuição,mesmo_codigo_tpu,TST:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H044,hard_negatives,STJ:26:Distribuição,TSE:36:Redistribuição,TSE:26:Distribuição,mesmo_codigo_tpu,STJ:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H045,hard_negatives,TJDFT:12430:Arquivamento,TJES:893:Desarquivamento,TJES:12430:Arquivamento,mesmo_codigo_tpu,TJDFT:893:Desarquivamento,mesmo_codigo_tpu,ambos
+V4-H046,hard_negatives,TJTO:220:Improcedência,TJAM:219:Procedência,TJAM:220:Improcedência,mesmo_codigo_tpu,TJTO:219:Procedência,mesmo_codigo_tpu,ambos
+V4-H047,hard_negatives,TRT12:26:Distribuição,TRF1:36:Redistribuição,TRF1:26:Distribuição,mesmo_codigo_tpu,TRT12:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H048,hard_negatives,TJAP:26:Distribuição,TJPE:36:Redistribuição,TJPE:26:Distribuição,mesmo_codigo_tpu,TJAP:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H049,hard_negatives,TJCE:26:Distribuição,TJMT:36:Redistribuição,TJMT:26:Distribuição,mesmo_codigo_tpu,TJCE:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H050,hard_negatives,TJES:26:Distribuição,TJMT:36:Redistribuição,TJMT:26:Distribuição,mesmo_codigo_tpu,TJES:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H051,hard_negatives,TRT14:26:Distribuição,TRT20:36:Redistribuição,TRT20:26:Distribuição,mesmo_codigo_tpu,TRT14:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H052,hard_negatives,TJSP:135:Apensamento,TJES:137:Desapensamento,TJES:135:Apensamento,mesmo_codigo_tpu,TJSP:137:Desapensamento,mesmo_codigo_tpu,ambos
+V4-H053,hard_negatives,TJGO:26:Distribuição,TJMT:36:Redistribuição,TJMT:26:Distribuição,mesmo_codigo_tpu,TJGO:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H054,hard_negatives,TJAM:26:Distribuição,TJRN:36:Redistribuição,TJRN:26:Distribuição,mesmo_codigo_tpu,TJAM:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H055,hard_negatives,TJMT:26:Distribuição,TJPE:36:Redistribuição,TJPE:26:Distribuição,mesmo_codigo_tpu,TJMT:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H056,hard_negatives,TJPR:12444:deferimento,TJDFT:12455:Indeferimento,TJDFT:12444:deferimento,mesmo_codigo_tpu,TJPR:12455:Indeferimento,mesmo_codigo_tpu,ambos
+V4-H057,hard_negatives,TJMRS:26:Distribuição,TRT20:36:Redistribuição,TRT20:26:Distribuição,mesmo_codigo_tpu,TJMRS:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H058,hard_negatives,TRF2:239:Não-Provimento,TJSE:237:Provimento,TJSE:239:Não-Provimento,mesmo_codigo_tpu,TRF2:237:Provimento,mesmo_codigo_tpu,ambos
+V4-H059,hard_negatives,TJRJ:26:Distribuição,TJPE:36:Redistribuição,TJPE:26:Distribuição,mesmo_codigo_tpu,TJRJ:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H060,hard_negatives,TRT14:220:Improcedência,TJAM:219:Procedência,TJAM:220:Improcedência,mesmo_codigo_tpu,TRT14:219:Procedência,mesmo_codigo_tpu,ambos
+V4-H061,hard_negatives,TJMT:26:Distribuição,TJPA:36:Redistribuição,TJPA:26:Distribuição,mesmo_codigo_tpu,TJMT:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H062,hard_negatives,TJPB:26:Distribuição,TJMT:36:Redistribuição,TJMT:26:Distribuição,mesmo_codigo_tpu,TJPB:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H063,hard_negatives,TRT19:26:Distribuição,TJMS:36:Redistribuição,TJMS:26:Distribuição,mesmo_codigo_tpu,TRT19:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H064,hard_negatives,TJRR:26:Distribuição,TJMT:36:Redistribuição,TJMT:26:Distribuição,mesmo_codigo_tpu,TJRR:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H065,hard_negatives,TJMT:26:Distribuição,TJTO:36:Redistribuição,TJTO:26:Distribuição,mesmo_codigo_tpu,TJMT:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H066,hard_negatives,STM:26:Distribuição,TJDFT:36:Redistribuição,TJDFT:26:Distribuição,mesmo_codigo_tpu,STM:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H067,hard_negatives,TJCE:220:Improcedência,TJSP:219:Procedência,TJSP:220:Improcedência,mesmo_codigo_tpu,TJCE:219:Procedência,mesmo_codigo_tpu,ambos
+V4-H068,hard_negatives,TJDFT:12444:deferimento,TJRR:12455:Indeferimento,TJRR:12444:deferimento,mesmo_codigo_tpu,TJDFT:12455:Indeferimento,mesmo_codigo_tpu,ambos
+V4-H069,hard_negatives,TRF1:26:Distribuição,TRF5:36:Redistribuição,TRF5:26:Distribuição,mesmo_codigo_tpu,TRF1:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H070,hard_negatives,TJAC:26:Distribuição,TJAP:36:Redistribuição,TJAP:26:Distribuição,mesmo_codigo_tpu,TJAC:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H071,hard_negatives,TJRN:12430:Arquivamento,TJGO:893:Desarquivamento,TJGO:12430:Arquivamento,mesmo_codigo_tpu,TJRN:893:Desarquivamento,mesmo_codigo_tpu,ambos
+V4-H072,hard_negatives,TJAM:135:Apensamento,TJMG:137:Desapensamento,TJMG:135:Apensamento,mesmo_codigo_tpu,TJAM:137:Desapensamento,mesmo_codigo_tpu,ambos
+V4-H073,hard_negatives,TJPE:135:Apensamento,TJAM:137:Desapensamento,TJAM:135:Apensamento,mesmo_codigo_tpu,TJPE:137:Desapensamento,datajud_codigo,ambos
+V4-H074,hard_negatives,TJRS:12444:deferimento,TJPB:12455:Indeferimento,TJPB:12444:deferimento,mesmo_codigo_tpu,TJRS:12455:Indeferimento,datajud_codigo,ambos
+V4-H075,hard_negatives,TJAC:26:Distribuição,TRF3:36:Redistribuição,TRF3:26:Distribuição,mesmo_codigo_tpu,TJAC:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H076,hard_negatives,TJDFT:26:Distribuição,TJMG:36:Redistribuição,TJMG:26:Distribuição,mesmo_codigo_tpu,TJDFT:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H077,hard_negatives,TJCE:198:Acolhimento de Embargos de Declaração,TJRO:200:Não-Acolhimento de Embargos de Declaração,TJRO:198:Acolhimento de Embargos de Declaração,mesmo_codigo_tpu,TJCE:200:Não-Acolhimento de Embargos de Declaração,mesmo_codigo_tpu,ambos
+V4-H078,hard_negatives,TJPE:26:Distribuição,TJPI:36:Redistribuição,TJPI:26:Distribuição,mesmo_codigo_tpu,TJPE:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H079,hard_negatives,TRT11:26:Distribuição,TRT14:36:Redistribuição,TRT14:26:Distribuição,mesmo_codigo_tpu,TRT11:36:Redistribuição,mesmo_codigo_tpu,ambos
+V4-H080,hard_negatives,TJAL:198:Acolhimento de Embargos de Declaração,TJAM:200:Não-Acolhimento de Embargos de Declaração,TJAM:198:Acolhimento de Embargos de Declaração,mesmo_codigo_tpu,TJAL:200:Não-Acolhimento de Embargos de Declaração,mesmo_codigo_tpu,ambos

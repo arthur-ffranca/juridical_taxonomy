@@ -1,0 +1,294 @@
+{
+  "quando": "2026-10-11T18:34:36.981068+00:00",
+  "tribunais_indexados": 91,
+  "paginas": 910,
+  "codigos_tpu_observados": 557,
+  "equivalencias": {
+    "conceitos_compartilhados_2plus_tribunais": 458,
+    "conceitos_em_10plus_tribunais": 248,
+    "conceitos_em_50plus_tribunais": 55,
+    "conceitos_em_todos_os_tribunais": 0,
+    "arestas_par_tribunal_x_codigo": 192674,
+    "pares_de_tribunais_com_pelo_menos_1_eq": 4095,
+    "pares_de_tribunais_possiveis": 4095,
+    "cobertura_pares_pct": 100.0,
+    "tribunais_com_alguma_eq_compartilhada": 91,
+    "depara_consolidado_preexistente_arestas": 90349,
+    "depara_consolidado_preexistente_tribunais": 91
+  },
+  "distribuicao_compartilhamento_codigos": {
+    "1_tribunal_sozinho": 99,
+    "2_a_9": 210,
+    "10_a_24": 133,
+    "25_a_49": 60,
+    "50_a_90": 55,
+    "91_todos": 0
+  },
+  "histograma_nTribunais": {
+    "1": 99,
+    "2": 50,
+    "3": 42,
+    "4": 31,
+    "5": 26,
+    "6": 18,
+    "7": 15,
+    "8": 15,
+    "9": 13,
+    "10": 6,
+    "11": 12,
+    "12": 13,
+    "13": 14,
+    "14": 13,
+    "15": 10,
+    "16": 8,
+    "17": 7,
+    "18": 8,
+    "19": 8,
+    "20": 11,
+    "21": 5,
+    "22": 3,
+    "23": 6,
+    "24": 9,
+    "25": 3,
+    "26": 6,
+    "27": 4,
+    "28": 1,
+    "29": 5,
+    "30": 6,
+    "31": 4,
+    "32": 2,
+    "33": 2,
+    "34": 1,
+    "35": 2,
+    "36": 3,
+    "37": 4,
+    "41": 3,
+    "43": 2,
+    "44": 2,
+    "45": 5,
+    "46": 1,
+    "47": 1,
+    "48": 3,
+    "50": 2,
+    "53": 2,
+    "54": 1,
+    "55": 2,
+    "56": 3,
+    "57": 2,
+    "58": 3,
+    "59": 1,
+    "60": 1,
+    "61": 1,
+    "62": 3,
+    "63": 2,
+    "67": 1,
+    "68": 1,
+    "69": 2,
+    "70": 2,
+    "71": 3,
+    "72": 1,
+    "76": 2,
+    "77": 1,
+    "78": 2,
+    "80": 1,
+    "81": 3,
+    "83": 2,
+    "85": 1,
+    "86": 4,
+    "87": 2,
+    "88": 1,
+    "89": 1,
+    "90": 2
+  },
+  "rematch_81_hard_negatives_tre": {
+    "total": 81,
+    "ambos": 80,
+    "um_lado": 1,
+    "nenhum": 0,
+    "interpretacao": "Os 81 são hard negatives (não equivalentes entre si). O rematch mostra se cada lado tem o par verdadeiro (mesmo código TPU) no outro tribunal.",
+    "datajud_extra_achados": 6
+  },
+  "top_30_codigos_mais_compartilhados": [
+    {
+      "codigo": "11010",
+      "nome": "Mero expediente",
+      "nTribunais": 90,
+      "ocorrencias": 137006
+    },
+    {
+      "codigo": "51",
+      "nome": "Conclusão",
+      "nTribunais": 90,
+      "ocorrencias": 304419
+    },
+    {
+      "codigo": "26",
+      "nome": "Distribuição",
+      "nTribunais": 89,
+      "ocorrencias": 93900
+    },
+    {
+      "codigo": "123",
+      "nome": "Remessa",
+      "nTribunais": 88,
+      "ocorrencias": 192930
+    },
+    {
+      "codigo": "132",
+      "nome": "Recebimento",
+      "nTribunais": 87,
+      "ocorrencias": 279681
+    },
+    {
+      "codigo": "85",
+      "nome": "Petição",
+      "nTribunais": 87,
+      "ocorrencias": 278003
+    },
+    {
+      "codigo": "219",
+      "nome": "Procedência",
+      "nTribunais": 86,
+      "ocorrencias": 7853
+    },
+    {
+      "codigo": "246",
+      "nome": "Definitivo",
+      "nTribunais": 86,
+      "ocorrencias": 75245
+    },
+    {
+      "codigo": "60",
+      "nome": "Expedição de documento",
+      "nTribunais": 86,
+      "ocorrencias": 386281
+    },
+    {
+      "codigo": "848",
+      "nome": "Trânsito em julgado",
+      "nTribunais": 86,
+      "ocorrencias": 27220
+    },
+    {
+      "codigo": "92",
+      "nome": "Publicação",
+      "nTribunais": 85,
+      "ocorrencias": 203511
+    },
+    {
+      "codigo": "220",
+      "nome": "Improcedência",
+      "nTribunais": 83,
+      "ocorrencias": 4750
+    },
+    {
+      "codigo": "36",
+      "nome": "Redistribuição",
+      "nTribunais": 83,
+      "ocorrencias": 18074
+    },
+    {
+      "codigo": "1051",
+      "nome": "Decurso de Prazo",
+      "nTribunais": 81,
+      "ocorrencias": 213510
+    },
+    {
+      "codigo": "11383",
+      "nome": "Ato ordinatório",
+      "nTribunais": 81,
+      "ocorrencias": 230011
+    },
+    {
+      "codigo": "221",
+      "nome": "Procedência em Parte",
+      "nTribunais": 81,
+      "ocorrencias": 5832
+    },
+    {
+      "codigo": "12164",
+      "nome": "Outras Decisões",
+      "nTribunais": 80,
+      "ocorrencias": 15813
+    },
+    {
+      "codigo": "200",
+      "nome": "Não-Acolhimento de Embargos de Declaração",
+      "nTribunais": 78,
+      "ocorrencias": 5070
+    },
+    {
+      "codigo": "581",
+      "nome": "Documento",
+      "nTribunais": 78,
+      "ocorrencias": 289578
+    },
+    {
+      "codigo": "22",
+      "nome": "Baixa Definitiva",
+      "nTribunais": 77,
+      "ocorrencias": 44399
+    },
+    {
+      "codigo": "1061",
+      "nome": "Disponibilização no Diário da Justiça Eletrônico",
+      "nTribunais": 76,
+      "ocorrencias": 163163
+    },
+    {
+      "codigo": "893",
+      "nome": "Desarquivamento",
+      "nTribunais": 76,
+      "ocorrencias": 15103
+    },
+    {
+      "codigo": "898",
+      "nome": "Por decisão judicial",
+      "nTribunais": 72,
+      "ocorrencias": 5778
+    },
+    {
+      "codigo": "339",
+      "nome": "Liminar",
+      "nTribunais": 71,
+      "ocorrencias": 1263
+    },
+    {
+      "codigo": "461",
+      "nome": "Ausência das condições da ação",
+      "nTribunais": 71,
+      "ocorrencias": 1048
+    },
+    {
+      "codigo": "792",
+      "nome": "Liminar",
+      "nTribunais": 71,
+      "ocorrencias": 1424
+    },
+    {
+      "codigo": "459",
+      "nome": "Ausência de pressupostos processuais",
+      "nTribunais": 70,
+      "ocorrencias": 1222
+    },
+    {
+      "codigo": "941",
+      "nome": "Incompetência",
+      "nTribunais": 70,
+      "ocorrencias": 2542
+    },
+    {
+      "codigo": "239",
+      "nome": "Não-Provimento",
+      "nTribunais": 69,
+      "ocorrencias": 14160
+    },
+    {
+      "codigo": "454",
+      "nome": "Indeferimento da petição inicial",
+      "nTribunais": 69,
+      "ocorrencias": 632
+    }
+  ],
+  "media_codigos_compartilhados_por_par_com_eq": 47.05
+}

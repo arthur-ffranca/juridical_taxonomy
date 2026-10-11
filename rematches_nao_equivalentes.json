@@ -1,0 +1,6081 @@
+{
+  "stats": {
+    "ambos": 178,
+    "um_lado": 2,
+    "nenhum": 0,
+    "total": 180
+  },
+  "itens": [
+    {
+      "id": "V4-C001",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJMT",
+          "codigo": "12740",
+          "nome": "de Conciliação"
+        },
+        "B": {
+          "tribunal": "TJDFT",
+          "codigo": "581",
+          "nome": "Documento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJDFT",
+        "codigo": "12740",
+        "nome": "de Conciliação",
+        "ocorrencias": 336
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMT",
+        "codigo": "581",
+        "nome": "Documento",
+        "ocorrencias": 3203
+      }
+    },
+    {
+      "id": "V4-C003",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRT10",
+          "codigo": "1051",
+          "nome": "Decurso de Prazo"
+        },
+        "B": {
+          "tribunal": "TRT1",
+          "codigo": "85",
+          "nome": "Petição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT1",
+        "codigo": "1051",
+        "nome": "Decurso de Prazo",
+        "ocorrencias": 8136
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT10",
+        "codigo": "85",
+        "nome": "Petição",
+        "ocorrencias": 2823
+      }
+    },
+    {
+      "id": "V4-C004",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRT11",
+          "codigo": "11010",
+          "nome": "Mero expediente"
+        },
+        "B": {
+          "tribunal": "TRT1",
+          "codigo": "434",
+          "nome": "Recurso de Revista"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT1",
+        "codigo": "11010",
+        "nome": "Mero expediente",
+        "ocorrencias": 4298
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT11",
+        "codigo": "434",
+        "nome": "Recurso de Revista",
+        "ocorrencias": 98
+      }
+    },
+    {
+      "id": "V4-C006",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRT8",
+          "codigo": "1051",
+          "nome": "Decurso de Prazo"
+        },
+        "B": {
+          "tribunal": "TRT10",
+          "codigo": "123",
+          "nome": "Remessa"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT10",
+        "codigo": "1051",
+        "nome": "Decurso de Prazo",
+        "ocorrencias": 4729
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT8",
+        "codigo": "123",
+        "nome": "Remessa",
+        "ocorrencias": 690
+      }
+    },
+    {
+      "id": "V4-C007",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRT1",
+          "codigo": "11022",
+          "nome": "Julgamento em Diligência"
+        },
+        "B": {
+          "tribunal": "TRT13",
+          "codigo": "132",
+          "nome": "Recebimento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT13",
+        "codigo": "11022",
+        "nome": "Julgamento em Diligência",
+        "ocorrencias": 77
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT1",
+        "codigo": "132",
+        "nome": "Recebimento",
+        "ocorrencias": 243
+      }
+    },
+    {
+      "id": "V4-C008",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJPE",
+          "codigo": "11010",
+          "nome": "Mero expediente"
+        },
+        "B": {
+          "tribunal": "TJES",
+          "codigo": "461",
+          "nome": "Ausência das condições da ação"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJES",
+        "codigo": "11010",
+        "nome": "Mero expediente",
+        "ocorrencias": 1618
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPE",
+        "codigo": "461",
+        "nome": "Ausência das condições da ação",
+        "ocorrencias": 41
+      }
+    },
+    {
+      "id": "V4-C009",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJMMG",
+          "codigo": "1051",
+          "nome": "Decurso de Prazo"
+        },
+        "B": {
+          "tribunal": "TJMRS",
+          "codigo": "581",
+          "nome": "Documento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMRS",
+        "codigo": "1051",
+        "nome": "Decurso de Prazo",
+        "ocorrencias": 1388
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMMG",
+        "codigo": "581",
+        "nome": "Documento",
+        "ocorrencias": 4023
+      }
+    },
+    {
+      "id": "V4-C010",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJDFT",
+          "codigo": "106",
+          "nome": "Mandado"
+        },
+        "B": {
+          "tribunal": "TJAM",
+          "codigo": "123",
+          "nome": "Remessa"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAM",
+        "codigo": "106",
+        "nome": "Mandado",
+        "ocorrencias": 7
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJDFT",
+        "codigo": "123",
+        "nome": "Remessa",
+        "ocorrencias": 1777
+      }
+    },
+    {
+      "id": "V4-C011",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJAC",
+          "codigo": "12164",
+          "nome": "Outras Decisões"
+        },
+        "B": {
+          "tribunal": "TJMT",
+          "codigo": "941",
+          "nome": "Incompetência"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMT",
+        "codigo": "12164",
+        "nome": "Outras Decisões",
+        "ocorrencias": 906
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAC",
+        "codigo": "941",
+        "nome": "Incompetência",
+        "ocorrencias": 35
+      }
+    },
+    {
+      "id": "V4-C012",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJCE",
+          "codigo": "391",
+          "nome": "Denúncia"
+        },
+        "B": {
+          "tribunal": "TJDFT",
+          "codigo": "581",
+          "nome": "Documento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJDFT",
+        "codigo": "391",
+        "nome": "Denúncia",
+        "ocorrencias": 40
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJCE",
+        "codigo": "581",
+        "nome": "Documento",
+        "ocorrencias": 3609
+      }
+    },
+    {
+      "id": "V4-C014",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJTO",
+          "codigo": "12291",
+          "nome": "Movimentação processual"
+        },
+        "B": {
+          "tribunal": "TJAC",
+          "codigo": "60",
+          "nome": "Expedição de documento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAC",
+        "codigo": "12291",
+        "nome": "Movimentação processual",
+        "ocorrencias": 660
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJTO",
+        "codigo": "60",
+        "nome": "Expedição de documento",
+        "ocorrencias": 1273
+      }
+    },
+    {
+      "id": "V4-C015",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJMT",
+          "codigo": "11383",
+          "nome": "Ato ordinatório"
+        },
+        "B": {
+          "tribunal": "TJCE",
+          "codigo": "85",
+          "nome": "Petição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJCE",
+        "codigo": "11383",
+        "nome": "Ato ordinatório",
+        "ocorrencias": 463
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMT",
+        "codigo": "85",
+        "nome": "Petição",
+        "ocorrencias": 11041
+      }
+    },
+    {
+      "id": "V4-C016",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJPR",
+          "codigo": "12266",
+          "nome": "Confirmada"
+        },
+        "B": {
+          "tribunal": "STM",
+          "codigo": "12282",
+          "nome": "Expedida/Certificada"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "STM",
+        "codigo": "12266",
+        "nome": "Confirmada",
+        "ocorrencias": 4601
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPR",
+        "codigo": "12282",
+        "nome": "Expedida/Certificada",
+        "ocorrencias": 51
+      }
+    },
+    {
+      "id": "V4-C018",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJMMG",
+          "codigo": "51",
+          "nome": "Conclusão"
+        },
+        "B": {
+          "tribunal": "STM",
+          "codigo": "60",
+          "nome": "Expedição de documento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "STM",
+        "codigo": "51",
+        "nome": "Conclusão",
+        "ocorrencias": 2116
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMMG",
+        "codigo": "60",
+        "nome": "Expedição de documento",
+        "ocorrencias": 990
+      }
+    },
+    {
+      "id": "V4-C019",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "STM",
+          "codigo": "11383",
+          "nome": "Ato ordinatório"
+        },
+        "B": {
+          "tribunal": "TJMRS",
+          "codigo": "12143",
+          "nome": "Mudança de Assunto Processual"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMRS",
+        "codigo": "11383",
+        "nome": "Ato ordinatório",
+        "ocorrencias": 1057
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "STM",
+        "codigo": "12143",
+        "nome": "Mudança de Assunto Processual",
+        "ocorrencias": 37
+      }
+    },
+    {
+      "id": "V4-C020",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJAC",
+          "codigo": "132",
+          "nome": "Recebimento"
+        },
+        "B": {
+          "tribunal": "TJCE",
+          "codigo": "581",
+          "nome": "Documento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJCE",
+        "codigo": "132",
+        "nome": "Recebimento",
+        "ocorrencias": 29
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAC",
+        "codigo": "581",
+        "nome": "Documento",
+        "ocorrencias": 14538
+      }
+    },
+    {
+      "id": "V4-C021",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJPA",
+          "codigo": "1051",
+          "nome": "Decurso de Prazo"
+        },
+        "B": {
+          "tribunal": "TJPR",
+          "codigo": "123",
+          "nome": "Remessa"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPR",
+        "codigo": "1051",
+        "nome": "Decurso de Prazo",
+        "ocorrencias": 1283
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPA",
+        "codigo": "123",
+        "nome": "Remessa",
+        "ocorrencias": 2058
+      }
+    },
+    {
+      "id": "V4-C022",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJPR",
+          "codigo": "12266",
+          "nome": "Confirmada"
+        },
+        "B": {
+          "tribunal": "TJDFT",
+          "codigo": "60",
+          "nome": "Expedição de documento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "datajud_codigo",
+        "confianca": "alta",
+        "tribunal": "TJDFT",
+        "codigo": "12266",
+        "nome": "Confirmada",
+        "ocorrencias": 1
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPR",
+        "codigo": "60",
+        "nome": "Expedição de documento",
+        "ocorrencias": 8043
+      }
+    },
+    {
+      "id": "V4-C024",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJES",
+          "codigo": "11010",
+          "nome": "Mero expediente"
+        },
+        "B": {
+          "tribunal": "TRF4",
+          "codigo": "85",
+          "nome": "Petição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRF4",
+        "codigo": "11010",
+        "nome": "Mero expediente",
+        "ocorrencias": 1544
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJES",
+        "codigo": "85",
+        "nome": "Petição",
+        "ocorrencias": 4211
+      }
+    },
+    {
+      "id": "V4-C025",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJAC",
+          "codigo": "581",
+          "nome": "Documento"
+        },
+        "B": {
+          "tribunal": "TJBA",
+          "codigo": "85",
+          "nome": "Petição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJBA",
+        "codigo": "581",
+        "nome": "Documento",
+        "ocorrencias": 2717
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAC",
+        "codigo": "85",
+        "nome": "Petição",
+        "ocorrencias": 1940
+      }
+    },
+    {
+      "id": "V4-C026",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJCE",
+          "codigo": "11010",
+          "nome": "Mero expediente"
+        },
+        "B": {
+          "tribunal": "TJES",
+          "codigo": "581",
+          "nome": "Documento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJES",
+        "codigo": "11010",
+        "nome": "Mero expediente",
+        "ocorrencias": 1618
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJCE",
+        "codigo": "581",
+        "nome": "Documento",
+        "ocorrencias": 3609
+      }
+    },
+    {
+      "id": "V4-C027",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJRO",
+          "codigo": "11010",
+          "nome": "Mero expediente"
+        },
+        "B": {
+          "tribunal": "TJBA",
+          "codigo": "466",
+          "nome": "Homologação de Transação"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJBA",
+        "codigo": "11010",
+        "nome": "Mero expediente",
+        "ocorrencias": 858
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJRO",
+        "codigo": "466",
+        "nome": "Homologação de Transação",
+        "ocorrencias": 28
+      }
+    },
+    {
+      "id": "V4-C028",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRT12",
+          "codigo": "196",
+          "nome": "Extinção da execução ou do cumprimento da sentença"
+        },
+        "B": {
+          "tribunal": "TRT1",
+          "codigo": "466",
+          "nome": "Homologação de Transação"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT1",
+        "codigo": "196",
+        "nome": "Extinção da execução ou do cumprimento da sentença",
+        "ocorrencias": 218
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT12",
+        "codigo": "466",
+        "nome": "Homologação de Transação",
+        "ocorrencias": 382
+      }
+    },
+    {
+      "id": "V4-C029",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRT1",
+          "codigo": "11010",
+          "nome": "Mero expediente"
+        },
+        "B": {
+          "tribunal": "TRT17",
+          "codigo": "332",
+          "nome": "Antecipação de tutela"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT17",
+        "codigo": "11010",
+        "nome": "Mero expediente",
+        "ocorrencias": 1486
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT1",
+        "codigo": "332",
+        "nome": "Antecipação de tutela",
+        "ocorrencias": 20
+      }
+    },
+    {
+      "id": "V4-C030",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJDFT",
+          "codigo": "1051",
+          "nome": "Decurso de Prazo"
+        },
+        "B": {
+          "tribunal": "TJPE",
+          "codigo": "85",
+          "nome": "Petição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPE",
+        "codigo": "1051",
+        "nome": "Decurso de Prazo",
+        "ocorrencias": 974
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJDFT",
+        "codigo": "85",
+        "nome": "Petição",
+        "ocorrencias": 7653
+      }
+    },
+    {
+      "id": "V4-C033",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJAC",
+          "codigo": "11010",
+          "nome": "Mero expediente"
+        },
+        "B": {
+          "tribunal": "TJDFT",
+          "codigo": "12430",
+          "nome": "Arquivamento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJDFT",
+        "codigo": "11010",
+        "nome": "Mero expediente",
+        "ocorrencias": 1305
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAC",
+        "codigo": "12430",
+        "nome": "Arquivamento",
+        "ocorrencias": 6
+      }
+    },
+    {
+      "id": "V4-C034",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRT17",
+          "codigo": "123",
+          "nome": "Remessa"
+        },
+        "B": {
+          "tribunal": "TRT24",
+          "codigo": "85",
+          "nome": "Petição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT24",
+        "codigo": "123",
+        "nome": "Remessa",
+        "ocorrencias": 395
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT17",
+        "codigo": "85",
+        "nome": "Petição",
+        "ocorrencias": 64
+      }
+    },
+    {
+      "id": "V4-C035",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJPR",
+          "codigo": "12740",
+          "nome": "de Conciliação"
+        },
+        "B": {
+          "tribunal": "TJRO",
+          "codigo": "893",
+          "nome": "Desarquivamento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "datajud_codigo",
+        "confianca": "alta",
+        "tribunal": "TJRO",
+        "codigo": "12740",
+        "nome": "de Conciliação",
+        "ocorrencias": 1
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPR",
+        "codigo": "893",
+        "nome": "Desarquivamento",
+        "ocorrencias": 16
+      }
+    },
+    {
+      "id": "V4-C036",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRT1",
+          "codigo": "1051",
+          "nome": "Decurso de Prazo"
+        },
+        "B": {
+          "tribunal": "TRT14",
+          "codigo": "123",
+          "nome": "Remessa"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT14",
+        "codigo": "1051",
+        "nome": "Decurso de Prazo",
+        "ocorrencias": 4668
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT1",
+        "codigo": "123",
+        "nome": "Remessa",
+        "ocorrencias": 462
+      }
+    },
+    {
+      "id": "V4-C037",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRF1",
+          "codigo": "106",
+          "nome": "Mandado"
+        },
+        "B": {
+          "tribunal": "TRF4",
+          "codigo": "123",
+          "nome": "Remessa"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRF4",
+        "codigo": "106",
+        "nome": "Mandado",
+        "ocorrencias": 78
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRF1",
+        "codigo": "123",
+        "nome": "Remessa",
+        "ocorrencias": 445
+      }
+    },
+    {
+      "id": "V4-C038",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRT14",
+          "codigo": "1051",
+          "nome": "Decurso de Prazo"
+        },
+        "B": {
+          "tribunal": "TJMS",
+          "codigo": "85",
+          "nome": "Petição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMS",
+        "codigo": "1051",
+        "nome": "Decurso de Prazo",
+        "ocorrencias": 107
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT14",
+        "codigo": "85",
+        "nome": "Petição",
+        "ocorrencias": 2751
+      }
+    },
+    {
+      "id": "V4-C039",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJGO",
+          "codigo": "12265",
+          "nome": "Expedida/certificada"
+        },
+        "B": {
+          "tribunal": "TJAP",
+          "codigo": "581",
+          "nome": "Documento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAP",
+        "codigo": "12265",
+        "nome": "Expedida/certificada",
+        "ocorrencias": 876
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJGO",
+        "codigo": "581",
+        "nome": "Documento",
+        "ocorrencias": 1275
+      }
+    },
+    {
+      "id": "V4-C041",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJCE",
+          "codigo": "454",
+          "nome": "Indeferimento da petição inicial"
+        },
+        "B": {
+          "tribunal": "TRF1",
+          "codigo": "463",
+          "nome": "Desistência"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRF1",
+        "codigo": "454",
+        "nome": "Indeferimento da petição inicial",
+        "ocorrencias": 23
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJCE",
+        "codigo": "463",
+        "nome": "Desistência",
+        "ocorrencias": 58
+      }
+    },
+    {
+      "id": "V4-C042",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJAL",
+          "codigo": "581",
+          "nome": "Documento"
+        },
+        "B": {
+          "tribunal": "TJAM",
+          "codigo": "60",
+          "nome": "Expedição de documento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAM",
+        "codigo": "581",
+        "nome": "Documento",
+        "ocorrencias": 20827
+      },
+      "casamentoB_em_A": {
+        "metodo": "datajud_codigo",
+        "confianca": "alta",
+        "tribunal": "TJAL",
+        "codigo": "60",
+        "nome": "Expedição de documento",
+        "ocorrencias": 1
+      }
+    },
+    {
+      "id": "V4-C043",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJSE",
+          "codigo": "11010",
+          "nome": "Mero expediente"
+        },
+        "B": {
+          "tribunal": "TJAM",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAM",
+        "codigo": "11010",
+        "nome": "Mero expediente",
+        "ocorrencias": 2900
+      },
+      "casamentoB_em_A": {
+        "metodo": "datajud_codigo",
+        "confianca": "alta",
+        "tribunal": "TJSE",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 1
+      }
+    },
+    {
+      "id": "V4-C045",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJMT",
+          "codigo": "11383",
+          "nome": "Ato ordinatório"
+        },
+        "B": {
+          "tribunal": "TJPE",
+          "codigo": "581",
+          "nome": "Documento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPE",
+        "codigo": "11383",
+        "nome": "Ato ordinatório",
+        "ocorrencias": 547
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMT",
+        "codigo": "581",
+        "nome": "Documento",
+        "ocorrencias": 3203
+      }
+    },
+    {
+      "id": "V4-C046",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJPB",
+          "codigo": "11010",
+          "nome": "Mero expediente"
+        },
+        "B": {
+          "tribunal": "TJRO",
+          "codigo": "12164",
+          "nome": "Outras Decisões"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJRO",
+        "codigo": "11010",
+        "nome": "Mero expediente",
+        "ocorrencias": 2397
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPB",
+        "codigo": "12164",
+        "nome": "Outras Decisões",
+        "ocorrencias": 152
+      }
+    },
+    {
+      "id": "V4-C047",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRF1",
+          "codigo": "11010",
+          "nome": "Mero expediente"
+        },
+        "B": {
+          "tribunal": "TJAM",
+          "codigo": "12459",
+          "nome": "Prejudicado"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAM",
+        "codigo": "11010",
+        "nome": "Mero expediente",
+        "ocorrencias": 2900
+      },
+      "casamentoB_em_A": {
+        "metodo": "datajud_codigo",
+        "confianca": "alta",
+        "tribunal": "TRF1",
+        "codigo": "12459",
+        "nome": "Prejudicado",
+        "ocorrencias": 1
+      }
+    },
+    {
+      "id": "V4-C048",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJAM",
+          "codigo": "135",
+          "nome": "Apensamento"
+        },
+        "B": {
+          "tribunal": "TJGO",
+          "codigo": "60",
+          "nome": "Expedição de documento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "datajud_codigo",
+        "confianca": "alta",
+        "tribunal": "TJGO",
+        "codigo": "135",
+        "nome": "Apensamento",
+        "ocorrencias": 1
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAM",
+        "codigo": "60",
+        "nome": "Expedição de documento",
+        "ocorrencias": 12696
+      }
+    },
+    {
+      "id": "V4-C049",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJES",
+          "codigo": "1051",
+          "nome": "Decurso de Prazo"
+        },
+        "B": {
+          "tribunal": "TJAP",
+          "codigo": "14739",
+          "nome": "Evolução da Classe Processual"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAP",
+        "codigo": "1051",
+        "nome": "Decurso de Prazo",
+        "ocorrencias": 586
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJES",
+        "codigo": "14739",
+        "nome": "Evolução da Classe Processual",
+        "ocorrencias": 24
+      }
+    },
+    {
+      "id": "V4-C050",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJRR",
+          "codigo": "1051",
+          "nome": "Decurso de Prazo"
+        },
+        "B": {
+          "tribunal": "TJES",
+          "codigo": "60",
+          "nome": "Expedição de documento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJES",
+        "codigo": "1051",
+        "nome": "Decurso de Prazo",
+        "ocorrencias": 1147
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJRR",
+        "codigo": "60",
+        "nome": "Expedição de documento",
+        "ocorrencias": 5388
+      }
+    },
+    {
+      "id": "V4-C051",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJAP",
+          "codigo": "1051",
+          "nome": "Decurso de Prazo"
+        },
+        "B": {
+          "tribunal": "TJAM",
+          "codigo": "581",
+          "nome": "Documento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAM",
+        "codigo": "1051",
+        "nome": "Decurso de Prazo",
+        "ocorrencias": 18
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAP",
+        "codigo": "581",
+        "nome": "Documento",
+        "ocorrencias": 1116
+      }
+    },
+    {
+      "id": "V4-C052",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJMRS",
+          "codigo": "11383",
+          "nome": "Ato ordinatório"
+        },
+        "B": {
+          "tribunal": "TJAM",
+          "codigo": "581",
+          "nome": "Documento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAM",
+        "codigo": "11383",
+        "nome": "Ato ordinatório",
+        "ocorrencias": 644
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMRS",
+        "codigo": "581",
+        "nome": "Documento",
+        "ocorrencias": 5807
+      }
+    },
+    {
+      "id": "V4-C054",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJMMG",
+          "codigo": "12265",
+          "nome": "Expedida/certificada"
+        },
+        "B": {
+          "tribunal": "TJGO",
+          "codigo": "60",
+          "nome": "Expedição de documento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJGO",
+        "codigo": "12265",
+        "nome": "Expedida/certificada",
+        "ocorrencias": 4791
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMMG",
+        "codigo": "60",
+        "nome": "Expedição de documento",
+        "ocorrencias": 990
+      }
+    },
+    {
+      "id": "V4-C055",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJMS",
+          "codigo": "123",
+          "nome": "Remessa"
+        },
+        "B": {
+          "tribunal": "TJGO",
+          "codigo": "132",
+          "nome": "Recebimento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJGO",
+        "codigo": "123",
+        "nome": "Remessa",
+        "ocorrencias": 904
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMS",
+        "codigo": "132",
+        "nome": "Recebimento",
+        "ocorrencias": 1986
+      }
+    },
+    {
+      "id": "V4-C056",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJES",
+          "codigo": "51",
+          "nome": "Conclusão"
+        },
+        "B": {
+          "tribunal": "TJAM",
+          "codigo": "85",
+          "nome": "Petição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAM",
+        "codigo": "51",
+        "nome": "Conclusão",
+        "ocorrencias": 3394
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJES",
+        "codigo": "85",
+        "nome": "Petição",
+        "ocorrencias": 4211
+      }
+    },
+    {
+      "id": "V4-C057",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJAP",
+          "codigo": "60",
+          "nome": "Expedição de documento"
+        },
+        "B": {
+          "tribunal": "TJPA",
+          "codigo": "848",
+          "nome": "Trânsito em julgado"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPA",
+        "codigo": "60",
+        "nome": "Expedição de documento",
+        "ocorrencias": 4273
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAP",
+        "codigo": "848",
+        "nome": "Trânsito em julgado",
+        "ocorrencias": 68
+      }
+    },
+    {
+      "id": "V4-C058",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJAP",
+          "codigo": "14736",
+          "nome": "Inclusão no Juízo 100% Digital"
+        },
+        "B": {
+          "tribunal": "TJMRS",
+          "codigo": "85",
+          "nome": "Petição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMRS",
+        "codigo": "14736",
+        "nome": "Inclusão no Juízo 100% Digital",
+        "ocorrencias": 16
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAP",
+        "codigo": "85",
+        "nome": "Petição",
+        "ocorrencias": 1547
+      }
+    },
+    {
+      "id": "V4-C059",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRT11",
+          "codigo": "132",
+          "nome": "Recebimento"
+        },
+        "B": {
+          "tribunal": "TRT10",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT10",
+        "codigo": "132",
+        "nome": "Recebimento",
+        "ocorrencias": 379
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT11",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 99
+      }
+    },
+    {
+      "id": "V4-C060",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJAP",
+          "codigo": "12283",
+          "nome": "Confirmada"
+        },
+        "B": {
+          "tribunal": "TJCE",
+          "codigo": "60",
+          "nome": "Expedição de documento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJCE",
+        "codigo": "12283",
+        "nome": "Confirmada",
+        "ocorrencias": 751
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAP",
+        "codigo": "60",
+        "nome": "Expedição de documento",
+        "ocorrencias": 5995
+      }
+    },
+    {
+      "id": "V4-C061",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJDFT",
+          "codigo": "581",
+          "nome": "Documento"
+        },
+        "B": {
+          "tribunal": "TJES",
+          "codigo": "85",
+          "nome": "Petição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJES",
+        "codigo": "581",
+        "nome": "Documento",
+        "ocorrencias": 1962
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJDFT",
+        "codigo": "85",
+        "nome": "Petição",
+        "ocorrencias": 7653
+      }
+    },
+    {
+      "id": "V4-C062",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJCE",
+          "codigo": "581",
+          "nome": "Documento"
+        },
+        "B": {
+          "tribunal": "TJRO",
+          "codigo": "85",
+          "nome": "Petição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJRO",
+        "codigo": "581",
+        "nome": "Documento",
+        "ocorrencias": 3223
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJCE",
+        "codigo": "85",
+        "nome": "Petição",
+        "ocorrencias": 3037
+      }
+    },
+    {
+      "id": "V4-C063",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJAP",
+          "codigo": "11010",
+          "nome": "Mero expediente"
+        },
+        "B": {
+          "tribunal": "TJMT",
+          "codigo": "787",
+          "nome": "Gratuidade da Justiça"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMT",
+        "codigo": "11010",
+        "nome": "Mero expediente",
+        "ocorrencias": 1016
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAP",
+        "codigo": "787",
+        "nome": "Gratuidade da Justiça",
+        "ocorrencias": 13
+      }
+    },
+    {
+      "id": "V4-C066",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRF1",
+          "codigo": "11010",
+          "nome": "Mero expediente"
+        },
+        "B": {
+          "tribunal": "TRT12",
+          "codigo": "219",
+          "nome": "Procedência"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT12",
+        "codigo": "11010",
+        "nome": "Mero expediente",
+        "ocorrencias": 3524
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRF1",
+        "codigo": "219",
+        "nome": "Procedência",
+        "ocorrencias": 20
+      }
+    },
+    {
+      "id": "V4-C067",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRT8",
+          "codigo": "219",
+          "nome": "Procedência"
+        },
+        "B": {
+          "tribunal": "TRT20",
+          "codigo": "459",
+          "nome": "Ausência de pressupostos processuais"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT20",
+        "codigo": "219",
+        "nome": "Procedência",
+        "ocorrencias": 17
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT8",
+        "codigo": "459",
+        "nome": "Ausência de pressupostos processuais",
+        "ocorrencias": 6
+      }
+    },
+    {
+      "id": "V4-C068",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJPB",
+          "codigo": "11024",
+          "nome": "Assistência Judiciária Gratuita"
+        },
+        "B": {
+          "tribunal": "TJCE",
+          "codigo": "12185",
+          "nome": "Decisão Interlocutória de Mérito"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "datajud_codigo",
+        "confianca": "alta",
+        "tribunal": "TJCE",
+        "codigo": "11024",
+        "nome": "Assistência Judiciária Gratuita",
+        "ocorrencias": 1
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPB",
+        "codigo": "12185",
+        "nome": "Decisão Interlocutória de Mérito",
+        "ocorrencias": 3
+      }
+    },
+    {
+      "id": "V4-C069",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJSP",
+          "codigo": "60",
+          "nome": "Expedição de documento"
+        },
+        "B": {
+          "tribunal": "TJAP",
+          "codigo": "85",
+          "nome": "Petição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAP",
+        "codigo": "60",
+        "nome": "Expedição de documento",
+        "ocorrencias": 5995
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJSP",
+        "codigo": "85",
+        "nome": "Petição",
+        "ocorrencias": 4134
+      }
+    },
+    {
+      "id": "V4-C071",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRT20",
+          "codigo": "11020",
+          "nome": "Requisição de Informações"
+        },
+        "B": {
+          "tribunal": "TRT14",
+          "codigo": "12164",
+          "nome": "Outras Decisões"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT14",
+        "codigo": "11020",
+        "nome": "Requisição de Informações",
+        "ocorrencias": 6
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT20",
+        "codigo": "12164",
+        "nome": "Outras Decisões",
+        "ocorrencias": 18
+      }
+    },
+    {
+      "id": "V4-C072",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJSC",
+          "codigo": "11010",
+          "nome": "Mero expediente"
+        },
+        "B": {
+          "tribunal": "TRF4",
+          "codigo": "581",
+          "nome": "Documento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRF4",
+        "codigo": "11010",
+        "nome": "Mero expediente",
+        "ocorrencias": 1544
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJSC",
+        "codigo": "581",
+        "nome": "Documento",
+        "ocorrencias": 13241
+      }
+    },
+    {
+      "id": "V4-C073",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJMT",
+          "codigo": "12296",
+          "nome": "Registro Processual"
+        },
+        "B": {
+          "tribunal": "TJRR",
+          "codigo": "60",
+          "nome": "Expedição de documento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJRR",
+        "codigo": "12296",
+        "nome": "Registro Processual",
+        "ocorrencias": 2
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMT",
+        "codigo": "60",
+        "nome": "Expedição de documento",
+        "ocorrencias": 9149
+      }
+    },
+    {
+      "id": "V4-C074",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJGO",
+          "codigo": "60",
+          "nome": "Expedição de documento"
+        },
+        "B": {
+          "tribunal": "TRT1",
+          "codigo": "85",
+          "nome": "Petição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT1",
+        "codigo": "60",
+        "nome": "Expedição de documento",
+        "ocorrencias": 11967
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJGO",
+        "codigo": "85",
+        "nome": "Petição",
+        "ocorrencias": 3234
+      }
+    },
+    {
+      "id": "V4-C076",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJMT",
+          "codigo": "11383",
+          "nome": "Ato ordinatório"
+        },
+        "B": {
+          "tribunal": "TJPB",
+          "codigo": "85",
+          "nome": "Petição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPB",
+        "codigo": "11383",
+        "nome": "Ato ordinatório",
+        "ocorrencias": 894
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMT",
+        "codigo": "85",
+        "nome": "Petição",
+        "ocorrencias": 11041
+      }
+    },
+    {
+      "id": "V4-C077",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRT16",
+          "codigo": "11010",
+          "nome": "Mero expediente"
+        },
+        "B": {
+          "tribunal": "TRT14",
+          "codigo": "461",
+          "nome": "Ausência das condições da ação"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT14",
+        "codigo": "11010",
+        "nome": "Mero expediente",
+        "ocorrencias": 323
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT16",
+        "codigo": "461",
+        "nome": "Ausência das condições da ação",
+        "ocorrencias": 2
+      }
+    },
+    {
+      "id": "V4-C078",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRT18",
+          "codigo": "11010",
+          "nome": "Mero expediente"
+        },
+        "B": {
+          "tribunal": "TRT24",
+          "codigo": "196",
+          "nome": "Extinção da execução ou do cumprimento da sentença"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT24",
+        "codigo": "11010",
+        "nome": "Mero expediente",
+        "ocorrencias": 889
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT18",
+        "codigo": "196",
+        "nome": "Extinção da execução ou do cumprimento da sentença",
+        "ocorrencias": 39
+      }
+    },
+    {
+      "id": "V4-C079",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJDFT",
+          "codigo": "85",
+          "nome": "Petição"
+        },
+        "B": {
+          "tribunal": "TJPA",
+          "codigo": "982",
+          "nome": "Remessa"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPA",
+        "codigo": "85",
+        "nome": "Petição",
+        "ocorrencias": 2943
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJDFT",
+        "codigo": "982",
+        "nome": "Remessa",
+        "ocorrencias": 10
+      }
+    },
+    {
+      "id": "V4-C080",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJPB",
+          "codigo": "106",
+          "nome": "Mandado"
+        },
+        "B": {
+          "tribunal": "TJPR",
+          "codigo": "11010",
+          "nome": "Mero expediente"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPR",
+        "codigo": "106",
+        "nome": "Mandado",
+        "ocorrencias": 809
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPB",
+        "codigo": "11010",
+        "nome": "Mero expediente",
+        "ocorrencias": 1408
+      }
+    },
+    {
+      "id": "V4-C081",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJAM",
+          "codigo": "581",
+          "nome": "Documento"
+        },
+        "B": {
+          "tribunal": "TRT20",
+          "codigo": "985",
+          "nome": "Mandado"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT20",
+        "codigo": "581",
+        "nome": "Documento",
+        "ocorrencias": 10
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAM",
+        "codigo": "985",
+        "nome": "Mandado",
+        "ocorrencias": 1
+      }
+    },
+    {
+      "id": "V4-C082",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJRJ",
+          "codigo": "11010",
+          "nome": "Mero expediente"
+        },
+        "B": {
+          "tribunal": "TJPE",
+          "codigo": "11383",
+          "nome": "Ato ordinatório"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPE",
+        "codigo": "11010",
+        "nome": "Mero expediente",
+        "ocorrencias": 5011
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJRJ",
+        "codigo": "11383",
+        "nome": "Ato ordinatório",
+        "ocorrencias": 1871
+      }
+    },
+    {
+      "id": "V4-C083",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJCE",
+          "codigo": "11010",
+          "nome": "Mero expediente"
+        },
+        "B": {
+          "tribunal": "TJPE",
+          "codigo": "458",
+          "nome": "Abandono da causa"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPE",
+        "codigo": "11010",
+        "nome": "Mero expediente",
+        "ocorrencias": 5011
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJCE",
+        "codigo": "458",
+        "nome": "Abandono da causa",
+        "ocorrencias": 20
+      }
+    },
+    {
+      "id": "V4-C084",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJAM",
+          "codigo": "581",
+          "nome": "Documento"
+        },
+        "B": {
+          "tribunal": "TJAC",
+          "codigo": "60",
+          "nome": "Expedição de documento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAC",
+        "codigo": "581",
+        "nome": "Documento",
+        "ocorrencias": 14538
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAM",
+        "codigo": "60",
+        "nome": "Expedição de documento",
+        "ocorrencias": 12696
+      }
+    },
+    {
+      "id": "V4-C085",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRT21",
+          "codigo": "1051",
+          "nome": "Decurso de Prazo"
+        },
+        "B": {
+          "tribunal": "TJMA",
+          "codigo": "581",
+          "nome": "Documento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMA",
+        "codigo": "1051",
+        "nome": "Decurso de Prazo",
+        "ocorrencias": 2232
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT21",
+        "codigo": "581",
+        "nome": "Documento",
+        "ocorrencias": 1072
+      }
+    },
+    {
+      "id": "V4-C086",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRT14",
+          "codigo": "11010",
+          "nome": "Mero expediente"
+        },
+        "B": {
+          "tribunal": "TRT18",
+          "codigo": "15101",
+          "nome": "Conclusão"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT18",
+        "codigo": "11010",
+        "nome": "Mero expediente",
+        "ocorrencias": 764
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT14",
+        "codigo": "15101",
+        "nome": "Conclusão",
+        "ocorrencias": 1505
+      }
+    },
+    {
+      "id": "V4-C087",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRF1",
+          "codigo": "12066",
+          "nome": "Cumprimento de Levantamento da Suspensão "
+        },
+        "B": {
+          "tribunal": "TJES",
+          "codigo": "51",
+          "nome": "Conclusão"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJES",
+        "codigo": "12066",
+        "nome": "Cumprimento de Levantamento da Suspensão ",
+        "ocorrencias": 28
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRF1",
+        "codigo": "51",
+        "nome": "Conclusão",
+        "ocorrencias": 3895
+      }
+    },
+    {
+      "id": "V4-C088",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJPA",
+          "codigo": "60",
+          "nome": "Expedição de documento"
+        },
+        "B": {
+          "tribunal": "TJMT",
+          "codigo": "85",
+          "nome": "Petição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMT",
+        "codigo": "60",
+        "nome": "Expedição de documento",
+        "ocorrencias": 9149
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPA",
+        "codigo": "85",
+        "nome": "Petição",
+        "ocorrencias": 2943
+      }
+    },
+    {
+      "id": "V4-C089",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJPB",
+          "codigo": "106",
+          "nome": "Mandado"
+        },
+        "B": {
+          "tribunal": "TJPA",
+          "codigo": "48",
+          "nome": "Escrivão/Diretor de Secretaria/Secretário Jurídico"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPA",
+        "codigo": "106",
+        "nome": "Mandado",
+        "ocorrencias": 83
+      },
+      "casamentoB_em_A": {
+        "metodo": "datajud_codigo",
+        "confianca": "alta",
+        "tribunal": "TJPB",
+        "codigo": "48",
+        "nome": "Escrivão/Diretor de Secretaria/Secretário Jurídico",
+        "ocorrencias": 1
+      }
+    },
+    {
+      "id": "V4-C090",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJRR",
+          "codigo": "12290",
+          "nome": "Documento Expedido"
+        },
+        "B": {
+          "tribunal": "TJPE",
+          "codigo": "581",
+          "nome": "Documento"
+        }
+      },
+      "casamentoA_em_B": null,
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJRR",
+        "codigo": "581",
+        "nome": "Documento",
+        "ocorrencias": 3099
+      }
+    },
+    {
+      "id": "V4-C092",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJPB",
+          "codigo": "14736",
+          "nome": "Inclusão no Juízo 100% Digital"
+        },
+        "B": {
+          "tribunal": "TJES",
+          "codigo": "51",
+          "nome": "Conclusão"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "datajud_codigo",
+        "confianca": "alta",
+        "tribunal": "TJES",
+        "codigo": "14736",
+        "nome": "Inclusão no Juízo 100% Digital",
+        "ocorrencias": 1
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPB",
+        "codigo": "51",
+        "nome": "Conclusão",
+        "ocorrencias": 2581
+      }
+    },
+    {
+      "id": "V4-C093",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJRR",
+          "codigo": "11383",
+          "nome": "Ato ordinatório"
+        },
+        "B": {
+          "tribunal": "TJPA",
+          "codigo": "493",
+          "nome": "Entrega em carga/vista"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPA",
+        "codigo": "11383",
+        "nome": "Ato ordinatório",
+        "ocorrencias": 136
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJRR",
+        "codigo": "493",
+        "nome": "Entrega em carga/vista",
+        "ocorrencias": 1
+      }
+    },
+    {
+      "id": "V4-C094",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "STM",
+          "codigo": "12265",
+          "nome": "Expedida/certificada"
+        },
+        "B": {
+          "tribunal": "TJDFT",
+          "codigo": "60",
+          "nome": "Expedição de documento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_nome_normalizado",
+        "confianca": "media",
+        "tribunal": "TJDFT",
+        "codigo": "12282",
+        "nome": "Expedida/Certificada",
+        "ocorrencias": 1
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "STM",
+        "codigo": "60",
+        "nome": "Expedição de documento",
+        "ocorrencias": 3922
+      }
+    },
+    {
+      "id": "V4-C095",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJAP",
+          "codigo": "123",
+          "nome": "Remessa"
+        },
+        "B": {
+          "tribunal": "TJPI",
+          "codigo": "60",
+          "nome": "Expedição de documento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPI",
+        "codigo": "123",
+        "nome": "Remessa",
+        "ocorrencias": 245
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAP",
+        "codigo": "60",
+        "nome": "Expedição de documento",
+        "ocorrencias": 5995
+      }
+    },
+    {
+      "id": "V4-C096",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJPR",
+          "codigo": "12293",
+          "nome": "Ato cumprido pela parte ou interessado (sem atributo)"
+        },
+        "B": {
+          "tribunal": "TJAP",
+          "codigo": "60",
+          "nome": "Expedição de documento"
+        }
+      },
+      "casamentoA_em_B": null,
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPR",
+        "codigo": "60",
+        "nome": "Expedição de documento",
+        "ocorrencias": 8043
+      }
+    },
+    {
+      "id": "V4-C097",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRT1",
+          "codigo": "1051",
+          "nome": "Decurso de Prazo"
+        },
+        "B": {
+          "tribunal": "TJAP",
+          "codigo": "12291",
+          "nome": "Movimentação processual"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAP",
+        "codigo": "1051",
+        "nome": "Decurso de Prazo",
+        "ocorrencias": 586
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT1",
+        "codigo": "12291",
+        "nome": "Movimentação processual",
+        "ocorrencias": 4
+      }
+    },
+    {
+      "id": "V4-C098",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRF1",
+          "codigo": "12066",
+          "nome": "Cumprimento de Levantamento da Suspensão "
+        },
+        "B": {
+          "tribunal": "TRF5",
+          "codigo": "85",
+          "nome": "Petição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRF5",
+        "codigo": "12066",
+        "nome": "Cumprimento de Levantamento da Suspensão ",
+        "ocorrencias": 12
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRF1",
+        "codigo": "85",
+        "nome": "Petição",
+        "ocorrencias": 4447
+      }
+    },
+    {
+      "id": "V4-C099",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJAC",
+          "codigo": "60",
+          "nome": "Expedição de documento"
+        },
+        "B": {
+          "tribunal": "TJAP",
+          "codigo": "85",
+          "nome": "Petição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAP",
+        "codigo": "60",
+        "nome": "Expedição de documento",
+        "ocorrencias": 5995
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAC",
+        "codigo": "85",
+        "nome": "Petição",
+        "ocorrencias": 1940
+      }
+    },
+    {
+      "id": "V4-C100",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJGO",
+          "codigo": "51",
+          "nome": "Conclusão"
+        },
+        "B": {
+          "tribunal": "TJRN",
+          "codigo": "581",
+          "nome": "Documento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJRN",
+        "codigo": "51",
+        "nome": "Conclusão",
+        "ocorrencias": 3851
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJGO",
+        "codigo": "581",
+        "nome": "Documento",
+        "ocorrencias": 1275
+      }
+    },
+    {
+      "id": "V4-C101",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJES",
+          "codigo": "196",
+          "nome": "Extinção da execução ou do cumprimento da sentença"
+        },
+        "B": {
+          "tribunal": "TJAC",
+          "codigo": "60",
+          "nome": "Expedição de documento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAC",
+        "codigo": "196",
+        "nome": "Extinção da execução ou do cumprimento da sentença",
+        "ocorrencias": 71
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJES",
+        "codigo": "60",
+        "nome": "Expedição de documento",
+        "ocorrencias": 8530
+      }
+    },
+    {
+      "id": "V4-C102",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJAM",
+          "codigo": "51",
+          "nome": "Conclusão"
+        },
+        "B": {
+          "tribunal": "TJCE",
+          "codigo": "581",
+          "nome": "Documento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJCE",
+        "codigo": "51",
+        "nome": "Conclusão",
+        "ocorrencias": 3502
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAM",
+        "codigo": "581",
+        "nome": "Documento",
+        "ocorrencias": 20827
+      }
+    },
+    {
+      "id": "V4-C103",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJPB",
+          "codigo": "1051",
+          "nome": "Decurso de Prazo"
+        },
+        "B": {
+          "tribunal": "TJAC",
+          "codigo": "12282",
+          "nome": "Expedida/Certificada"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAC",
+        "codigo": "1051",
+        "nome": "Decurso de Prazo",
+        "ocorrencias": 326
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPB",
+        "codigo": "12282",
+        "nome": "Expedida/Certificada",
+        "ocorrencias": 27
+      }
+    },
+    {
+      "id": "V4-C104",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJPA",
+          "codigo": "11009",
+          "nome": "Despacho"
+        },
+        "B": {
+          "tribunal": "TJAC",
+          "codigo": "581",
+          "nome": "Documento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAC",
+        "codigo": "11009",
+        "nome": "Despacho",
+        "ocorrencias": 8
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPA",
+        "codigo": "581",
+        "nome": "Documento",
+        "ocorrencias": 2269
+      }
+    },
+    {
+      "id": "V4-C105",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJSC",
+          "codigo": "848",
+          "nome": "Trânsito em julgado"
+        },
+        "B": {
+          "tribunal": "TJRN",
+          "codigo": "85",
+          "nome": "Petição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJRN",
+        "codigo": "848",
+        "nome": "Trânsito em julgado",
+        "ocorrencias": 491
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJSC",
+        "codigo": "85",
+        "nome": "Petição",
+        "ocorrencias": 3283
+      }
+    },
+    {
+      "id": "V4-C108",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRT22",
+          "codigo": "123",
+          "nome": "Remessa"
+        },
+        "B": {
+          "tribunal": "TRT11",
+          "codigo": "132",
+          "nome": "Recebimento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT11",
+        "codigo": "123",
+        "nome": "Remessa",
+        "ocorrencias": 430
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT22",
+        "codigo": "132",
+        "nome": "Recebimento",
+        "ocorrencias": 675
+      }
+    },
+    {
+      "id": "V4-C110",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJMT",
+          "codigo": "10966",
+          "nome": "Mudança de Classe Processual"
+        },
+        "B": {
+          "tribunal": "TJAL",
+          "codigo": "85",
+          "nome": "Petição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAL",
+        "codigo": "10966",
+        "nome": "Mudança de Classe Processual",
+        "ocorrencias": 11
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMT",
+        "codigo": "85",
+        "nome": "Petição",
+        "ocorrencias": 11041
+      }
+    },
+    {
+      "id": "V4-C112",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRF4",
+          "codigo": "12266",
+          "nome": "Confirmada"
+        },
+        "B": {
+          "tribunal": "TJAM",
+          "codigo": "60",
+          "nome": "Expedição de documento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_nome_normalizado",
+        "confianca": "media",
+        "tribunal": "TJAM",
+        "codigo": "12283",
+        "nome": "Confirmada",
+        "ocorrencias": 19
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRF4",
+        "codigo": "60",
+        "nome": "Expedição de documento",
+        "ocorrencias": 704
+      }
+    },
+    {
+      "id": "V4-C113",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJMT",
+          "codigo": "11383",
+          "nome": "Ato ordinatório"
+        },
+        "B": {
+          "tribunal": "TJBA",
+          "codigo": "221",
+          "nome": "Procedência em Parte"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJBA",
+        "codigo": "11383",
+        "nome": "Ato ordinatório",
+        "ocorrencias": 1134
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMT",
+        "codigo": "221",
+        "nome": "Procedência em Parte",
+        "ocorrencias": 17
+      }
+    },
+    {
+      "id": "V4-C114",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJSC",
+          "codigo": "132",
+          "nome": "Recebimento"
+        },
+        "B": {
+          "tribunal": "TJAC",
+          "codigo": "60",
+          "nome": "Expedição de documento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAC",
+        "codigo": "132",
+        "nome": "Recebimento",
+        "ocorrencias": 2877
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJSC",
+        "codigo": "60",
+        "nome": "Expedição de documento",
+        "ocorrencias": 627
+      }
+    },
+    {
+      "id": "V4-C115",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRF1",
+          "codigo": "12282",
+          "nome": "Expedida/Certificada"
+        },
+        "B": {
+          "tribunal": "TJDFT",
+          "codigo": "60",
+          "nome": "Expedição de documento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJDFT",
+        "codigo": "12282",
+        "nome": "Expedida/Certificada",
+        "ocorrencias": 1
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRF1",
+        "codigo": "60",
+        "nome": "Expedição de documento",
+        "ocorrencias": 2797
+      }
+    },
+    {
+      "id": "V4-C116",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJAC",
+          "codigo": "12164",
+          "nome": "Outras Decisões"
+        },
+        "B": {
+          "tribunal": "TJMMG",
+          "codigo": "581",
+          "nome": "Documento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMMG",
+        "codigo": "12164",
+        "nome": "Outras Decisões",
+        "ocorrencias": 155
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAC",
+        "codigo": "581",
+        "nome": "Documento",
+        "ocorrencias": 14538
+      }
+    },
+    {
+      "id": "V4-C117",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRF1",
+          "codigo": "85",
+          "nome": "Petição"
+        },
+        "B": {
+          "tribunal": "TJRR",
+          "codigo": "893",
+          "nome": "Desarquivamento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJRR",
+        "codigo": "85",
+        "nome": "Petição",
+        "ocorrencias": 3238
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRF1",
+        "codigo": "893",
+        "nome": "Desarquivamento",
+        "ocorrencias": 2
+      }
+    },
+    {
+      "id": "V4-C118",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJRJ",
+          "codigo": "1061",
+          "nome": "Disponibilização no Diário da Justiça Eletrônico"
+        },
+        "B": {
+          "tribunal": "TJAC",
+          "codigo": "132",
+          "nome": "Recebimento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAC",
+        "codigo": "1061",
+        "nome": "Disponibilização no Diário da Justiça Eletrônico",
+        "ocorrencias": 205
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_nome_normalizado",
+        "confianca": "media",
+        "tribunal": "TJRJ",
+        "codigo": "979",
+        "nome": "Recebimento",
+        "ocorrencias": 3
+      }
+    },
+    {
+      "id": "V4-C119",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJSC",
+          "codigo": "12174",
+          "nome": "Enviada ao Tribunal"
+        },
+        "B": {
+          "tribunal": "TJRS",
+          "codigo": "85",
+          "nome": "Petição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_nome_normalizado",
+        "confianca": "media",
+        "tribunal": "TJRS",
+        "codigo": "12167",
+        "nome": "Enviada ao Tribunal",
+        "ocorrencias": 1
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJSC",
+        "codigo": "85",
+        "nome": "Petição",
+        "ocorrencias": 3283
+      }
+    },
+    {
+      "id": "V4-C120",
+      "experimento": "contexto",
+      "bucket": "ambiguous",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJAP",
+          "codigo": "106",
+          "nome": "Mandado"
+        },
+        "B": {
+          "tribunal": "STM",
+          "codigo": "60",
+          "nome": "Expedição de documento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "STM",
+        "codigo": "106",
+        "nome": "Mandado",
+        "ocorrencias": 277
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAP",
+        "codigo": "60",
+        "nome": "Expedição de documento",
+        "ocorrencias": 5995
+      }
+    },
+    {
+      "id": "V4-H001",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJDFT",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJMT",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMT",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 976
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJDFT",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 147
+      }
+    },
+    {
+      "id": "V4-H002",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRT1",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TRT10",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT10",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 1094
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT1",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 49
+      }
+    },
+    {
+      "id": "V4-H003",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRT14",
+          "codigo": "198",
+          "nome": "Acolhimento de Embargos de Declaração"
+        },
+        "B": {
+          "tribunal": "TRT1",
+          "codigo": "200",
+          "nome": "Não-Acolhimento de Embargos de Declaração"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT1",
+        "codigo": "198",
+        "nome": "Acolhimento de Embargos de Declaração",
+        "ocorrencias": 60
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT14",
+        "codigo": "200",
+        "nome": "Não-Acolhimento de Embargos de Declaração",
+        "ocorrencias": 250
+      }
+    },
+    {
+      "id": "V4-H004",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRT1",
+          "codigo": "198",
+          "nome": "Acolhimento de Embargos de Declaração"
+        },
+        "B": {
+          "tribunal": "TRF2",
+          "codigo": "200",
+          "nome": "Não-Acolhimento de Embargos de Declaração"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRF2",
+        "codigo": "198",
+        "nome": "Acolhimento de Embargos de Declaração",
+        "ocorrencias": 7
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT1",
+        "codigo": "200",
+        "nome": "Não-Acolhimento de Embargos de Declaração",
+        "ocorrencias": 110
+      }
+    },
+    {
+      "id": "V4-H005",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRT10",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TRT8",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT8",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 1141
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT10",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 107
+      }
+    },
+    {
+      "id": "V4-H006",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJES",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJPE",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPE",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 996
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJES",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 86
+      }
+    },
+    {
+      "id": "V4-H007",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJMMG",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJMRS",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMRS",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 999
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMMG",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 197
+      }
+    },
+    {
+      "id": "V4-H008",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJAM",
+          "codigo": "135",
+          "nome": "Apensamento"
+        },
+        "B": {
+          "tribunal": "TJDFT",
+          "codigo": "137",
+          "nome": "Desapensamento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJDFT",
+        "codigo": "135",
+        "nome": "Apensamento",
+        "ocorrencias": 97
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAM",
+        "codigo": "137",
+        "nome": "Desapensamento",
+        "ocorrencias": 42
+      }
+    },
+    {
+      "id": "V4-H009",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJMT",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJAC",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAC",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 1009
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMT",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 345
+      }
+    },
+    {
+      "id": "V4-H010",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJCE",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJES",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJES",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 794
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJCE",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 165
+      }
+    },
+    {
+      "id": "V4-H011",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJAP",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJPI",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPI",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 1023
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAP",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 270
+      }
+    },
+    {
+      "id": "V4-H012",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "STM",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TRF1",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRF1",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 993
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "STM",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 130
+      }
+    },
+    {
+      "id": "V4-H013",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRT10",
+          "codigo": "198",
+          "nome": "Acolhimento de Embargos de Declaração"
+        },
+        "B": {
+          "tribunal": "TRT14",
+          "codigo": "200",
+          "nome": "Não-Acolhimento de Embargos de Declaração"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT14",
+        "codigo": "198",
+        "nome": "Acolhimento de Embargos de Declaração",
+        "ocorrencias": 16
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT10",
+        "codigo": "200",
+        "nome": "Não-Acolhimento de Embargos de Declaração",
+        "ocorrencias": 239
+      }
+    },
+    {
+      "id": "V4-H014",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "STM",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJMMG",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMMG",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 1000
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "STM",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 130
+      }
+    },
+    {
+      "id": "V4-H015",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJAC",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJCE",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJCE",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 998
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAC",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 129
+      }
+    },
+    {
+      "id": "V4-H016",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJRO",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJTO",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJTO",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 1150
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJRO",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 105
+      }
+    },
+    {
+      "id": "V4-H017",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRF3",
+          "codigo": "198",
+          "nome": "Acolhimento de Embargos de Declaração"
+        },
+        "B": {
+          "tribunal": "TRF4",
+          "codigo": "200",
+          "nome": "Não-Acolhimento de Embargos de Declaração"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRF4",
+        "codigo": "198",
+        "nome": "Acolhimento de Embargos de Declaração",
+        "ocorrencias": 19
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRF3",
+        "codigo": "200",
+        "nome": "Não-Acolhimento de Embargos de Declaração",
+        "ocorrencias": 2
+      }
+    },
+    {
+      "id": "V4-H018",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJAC",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJMG",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMG",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 1327
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAC",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 129
+      }
+    },
+    {
+      "id": "V4-H019",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJAC",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJBA",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJBA",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 1007
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAC",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 129
+      }
+    },
+    {
+      "id": "V4-H020",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJCE",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJPE",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPE",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 996
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJCE",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 165
+      }
+    },
+    {
+      "id": "V4-H021",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJAC",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJTO",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJTO",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 1150
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAC",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 129
+      }
+    },
+    {
+      "id": "V4-H022",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRT1",
+          "codigo": "198",
+          "nome": "Acolhimento de Embargos de Declaração"
+        },
+        "B": {
+          "tribunal": "TRT11",
+          "codigo": "200",
+          "nome": "Não-Acolhimento de Embargos de Declaração"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT11",
+        "codigo": "198",
+        "nome": "Acolhimento de Embargos de Declaração",
+        "ocorrencias": 10
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT1",
+        "codigo": "200",
+        "nome": "Não-Acolhimento de Embargos de Declaração",
+        "ocorrencias": 110
+      }
+    },
+    {
+      "id": "V4-H023",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRT11",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TRT18",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT18",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 1011
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT11",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 99
+      }
+    },
+    {
+      "id": "V4-H024",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJDFT",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJPE",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPE",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 996
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJDFT",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 147
+      }
+    },
+    {
+      "id": "V4-H025",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJMS",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJAM",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAM",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 659
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMS",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 1071
+      }
+    },
+    {
+      "id": "V4-H026",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJDFT",
+          "codigo": "12430",
+          "nome": "Arquivamento"
+        },
+        "B": {
+          "tribunal": "TJPA",
+          "codigo": "893",
+          "nome": "Desarquivamento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_nome_normalizado",
+        "confianca": "media",
+        "tribunal": "TJPA",
+        "codigo": "861",
+        "nome": "Arquivamento",
+        "ocorrencias": 1
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJDFT",
+        "codigo": "893",
+        "nome": "Desarquivamento",
+        "ocorrencias": 474
+      }
+    },
+    {
+      "id": "V4-H027",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJMS",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TRT14",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT14",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 1055
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMS",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 1071
+      }
+    },
+    {
+      "id": "V4-H028",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJGO",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJAP",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAP",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 1005
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJGO",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 118
+      }
+    },
+    {
+      "id": "V4-H029",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJPA",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJPR",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPR",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 944
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPA",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 181
+      }
+    },
+    {
+      "id": "V4-H030",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJCE",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJDFT",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJDFT",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 1155
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJCE",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 165
+      }
+    },
+    {
+      "id": "V4-H031",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJAM",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJGO",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJGO",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 1092
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAM",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 715
+      }
+    },
+    {
+      "id": "V4-H032",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRT13",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TRT24",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT24",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 1056
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT13",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 39
+      }
+    },
+    {
+      "id": "V4-H033",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJAP",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJDFT",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJDFT",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 1155
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAP",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 270
+      }
+    },
+    {
+      "id": "V4-H034",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJAP",
+          "codigo": "14232",
+          "nome": "Acolhimento"
+        },
+        "B": {
+          "tribunal": "TJSC",
+          "codigo": "14233",
+          "nome": "Não-Acolhimento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJSC",
+        "codigo": "14232",
+        "nome": "Acolhimento",
+        "ocorrencias": 1
+      },
+      "casamentoB_em_A": {
+        "metodo": "datajud_codigo",
+        "confianca": "alta",
+        "tribunal": "TJAP",
+        "codigo": "14233",
+        "nome": "Não-Acolhimento",
+        "ocorrencias": 1
+      }
+    },
+    {
+      "id": "V4-H035",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJAP",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TRF1",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRF1",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 993
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAP",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 270
+      }
+    },
+    {
+      "id": "V4-H037",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJMRS",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJAM",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAM",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 659
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMRS",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 179
+      }
+    },
+    {
+      "id": "V4-H038",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJGO",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJMMG",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMMG",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 1000
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJGO",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 118
+      }
+    },
+    {
+      "id": "V4-H039",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJMS",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJGO",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJGO",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 1092
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMS",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 1071
+      }
+    },
+    {
+      "id": "V4-H040",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJAP",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJMT",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMT",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 976
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAP",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 270
+      }
+    },
+    {
+      "id": "V4-H041",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRF5",
+          "codigo": "220",
+          "nome": "Improcedência"
+        },
+        "B": {
+          "tribunal": "TRT23",
+          "codigo": "219",
+          "nome": "Procedência"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT23",
+        "codigo": "220",
+        "nome": "Improcedência",
+        "ocorrencias": 103
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRF5",
+        "codigo": "219",
+        "nome": "Procedência",
+        "ocorrencias": 296
+      }
+    },
+    {
+      "id": "V4-H042",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRT11",
+          "codigo": "220",
+          "nome": "Improcedência"
+        },
+        "B": {
+          "tribunal": "TRT13",
+          "codigo": "219",
+          "nome": "Procedência"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT13",
+        "codigo": "220",
+        "nome": "Improcedência",
+        "ocorrencias": 40
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT11",
+        "codigo": "219",
+        "nome": "Procedência",
+        "ocorrencias": 33
+      }
+    },
+    {
+      "id": "V4-H043",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TST",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TSE",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TSE",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 1014
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TST",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 421
+      }
+    },
+    {
+      "id": "V4-H044",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "STJ",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TSE",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TSE",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 1014
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "STJ",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 242
+      }
+    },
+    {
+      "id": "V4-H045",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJDFT",
+          "codigo": "12430",
+          "nome": "Arquivamento"
+        },
+        "B": {
+          "tribunal": "TJES",
+          "codigo": "893",
+          "nome": "Desarquivamento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJES",
+        "codigo": "12430",
+        "nome": "Arquivamento",
+        "ocorrencias": 4
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJDFT",
+        "codigo": "893",
+        "nome": "Desarquivamento",
+        "ocorrencias": 474
+      }
+    },
+    {
+      "id": "V4-H046",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJTO",
+          "codigo": "220",
+          "nome": "Improcedência"
+        },
+        "B": {
+          "tribunal": "TJAM",
+          "codigo": "219",
+          "nome": "Procedência"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAM",
+        "codigo": "220",
+        "nome": "Improcedência",
+        "ocorrencias": 20
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJTO",
+        "codigo": "219",
+        "nome": "Procedência",
+        "ocorrencias": 75
+      }
+    },
+    {
+      "id": "V4-H047",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRT12",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TRF1",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRF1",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 993
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT12",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 1
+      }
+    },
+    {
+      "id": "V4-H048",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJAP",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJPE",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPE",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 996
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAP",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 270
+      }
+    },
+    {
+      "id": "V4-H049",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJCE",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJMT",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMT",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 976
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJCE",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 165
+      }
+    },
+    {
+      "id": "V4-H050",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJES",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJMT",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMT",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 976
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJES",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 86
+      }
+    },
+    {
+      "id": "V4-H051",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRT14",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TRT20",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT20",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 1165
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT14",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 147
+      }
+    },
+    {
+      "id": "V4-H052",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJSP",
+          "codigo": "135",
+          "nome": "Apensamento"
+        },
+        "B": {
+          "tribunal": "TJES",
+          "codigo": "137",
+          "nome": "Desapensamento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJES",
+        "codigo": "135",
+        "nome": "Apensamento",
+        "ocorrencias": 64
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJSP",
+        "codigo": "137",
+        "nome": "Desapensamento",
+        "ocorrencias": 3
+      }
+    },
+    {
+      "id": "V4-H053",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJGO",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJMT",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMT",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 976
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJGO",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 118
+      }
+    },
+    {
+      "id": "V4-H054",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJAM",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJRN",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJRN",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 982
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAM",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 715
+      }
+    },
+    {
+      "id": "V4-H055",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJMT",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJPE",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPE",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 996
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMT",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 345
+      }
+    },
+    {
+      "id": "V4-H056",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJPR",
+          "codigo": "12444",
+          "nome": "deferimento"
+        },
+        "B": {
+          "tribunal": "TJDFT",
+          "codigo": "12455",
+          "nome": "Indeferimento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJDFT",
+        "codigo": "12444",
+        "nome": "deferimento",
+        "ocorrencias": 613
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPR",
+        "codigo": "12455",
+        "nome": "Indeferimento",
+        "ocorrencias": 45
+      }
+    },
+    {
+      "id": "V4-H057",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJMRS",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TRT20",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT20",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 1165
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMRS",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 179
+      }
+    },
+    {
+      "id": "V4-H058",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRF2",
+          "codigo": "239",
+          "nome": "Não-Provimento"
+        },
+        "B": {
+          "tribunal": "TJSE",
+          "codigo": "237",
+          "nome": "Provimento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJSE",
+        "codigo": "239",
+        "nome": "Não-Provimento",
+        "ocorrencias": 456
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRF2",
+        "codigo": "237",
+        "nome": "Provimento",
+        "ocorrencias": 48
+      }
+    },
+    {
+      "id": "V4-H059",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJRJ",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJPE",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPE",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 996
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJRJ",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 37
+      }
+    },
+    {
+      "id": "V4-H060",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRT14",
+          "codigo": "220",
+          "nome": "Improcedência"
+        },
+        "B": {
+          "tribunal": "TJAM",
+          "codigo": "219",
+          "nome": "Procedência"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAM",
+        "codigo": "220",
+        "nome": "Improcedência",
+        "ocorrencias": 20
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT14",
+        "codigo": "219",
+        "nome": "Procedência",
+        "ocorrencias": 8
+      }
+    },
+    {
+      "id": "V4-H061",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJMT",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJPA",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPA",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 917
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMT",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 345
+      }
+    },
+    {
+      "id": "V4-H062",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJPB",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJMT",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMT",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 976
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPB",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 157
+      }
+    },
+    {
+      "id": "V4-H063",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRT19",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJMS",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMS",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 1055
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT19",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 39
+      }
+    },
+    {
+      "id": "V4-H064",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJRR",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJMT",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMT",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 976
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJRR",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 226
+      }
+    },
+    {
+      "id": "V4-H065",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJMT",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJTO",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJTO",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 1150
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMT",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 345
+      }
+    },
+    {
+      "id": "V4-H066",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "STM",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJDFT",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJDFT",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 1155
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "STM",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 130
+      }
+    },
+    {
+      "id": "V4-H067",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJCE",
+          "codigo": "220",
+          "nome": "Improcedência"
+        },
+        "B": {
+          "tribunal": "TJSP",
+          "codigo": "219",
+          "nome": "Procedência"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJSP",
+        "codigo": "220",
+        "nome": "Improcedência",
+        "ocorrencias": 23
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJCE",
+        "codigo": "219",
+        "nome": "Procedência",
+        "ocorrencias": 92
+      }
+    },
+    {
+      "id": "V4-H068",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJDFT",
+          "codigo": "12444",
+          "nome": "deferimento"
+        },
+        "B": {
+          "tribunal": "TJRR",
+          "codigo": "12455",
+          "nome": "Indeferimento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJRR",
+        "codigo": "12444",
+        "nome": "deferimento",
+        "ocorrencias": 166
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJDFT",
+        "codigo": "12455",
+        "nome": "Indeferimento",
+        "ocorrencias": 214
+      }
+    },
+    {
+      "id": "V4-H069",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRF1",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TRF5",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRF5",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 989
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRF1",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 315
+      }
+    },
+    {
+      "id": "V4-H070",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJAC",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJAP",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAP",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 1005
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAC",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 129
+      }
+    },
+    {
+      "id": "V4-H071",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJRN",
+          "codigo": "12430",
+          "nome": "Arquivamento"
+        },
+        "B": {
+          "tribunal": "TJGO",
+          "codigo": "893",
+          "nome": "Desarquivamento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJGO",
+        "codigo": "12430",
+        "nome": "Arquivamento",
+        "ocorrencias": 50
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJRN",
+        "codigo": "893",
+        "nome": "Desarquivamento",
+        "ocorrencias": 33
+      }
+    },
+    {
+      "id": "V4-H072",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJAM",
+          "codigo": "135",
+          "nome": "Apensamento"
+        },
+        "B": {
+          "tribunal": "TJMG",
+          "codigo": "137",
+          "nome": "Desapensamento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMG",
+        "codigo": "135",
+        "nome": "Apensamento",
+        "ocorrencias": 20
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAM",
+        "codigo": "137",
+        "nome": "Desapensamento",
+        "ocorrencias": 42
+      }
+    },
+    {
+      "id": "V4-H073",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJPE",
+          "codigo": "135",
+          "nome": "Apensamento"
+        },
+        "B": {
+          "tribunal": "TJAM",
+          "codigo": "137",
+          "nome": "Desapensamento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAM",
+        "codigo": "135",
+        "nome": "Apensamento",
+        "ocorrencias": 1246
+      },
+      "casamentoB_em_A": {
+        "metodo": "datajud_codigo",
+        "confianca": "alta",
+        "tribunal": "TJPE",
+        "codigo": "137",
+        "nome": "Desapensamento",
+        "ocorrencias": 1
+      }
+    },
+    {
+      "id": "V4-H074",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJRS",
+          "codigo": "12444",
+          "nome": "deferimento"
+        },
+        "B": {
+          "tribunal": "TJPB",
+          "codigo": "12455",
+          "nome": "Indeferimento"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPB",
+        "codigo": "12444",
+        "nome": "deferimento",
+        "ocorrencias": 43
+      },
+      "casamentoB_em_A": {
+        "metodo": "datajud_codigo",
+        "confianca": "alta",
+        "tribunal": "TJRS",
+        "codigo": "12455",
+        "nome": "Indeferimento",
+        "ocorrencias": 1
+      }
+    },
+    {
+      "id": "V4-H075",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJAC",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TRF3",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRF3",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 83
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAC",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 129
+      }
+    },
+    {
+      "id": "V4-H076",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJDFT",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJMG",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJMG",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 1327
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJDFT",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 147
+      }
+    },
+    {
+      "id": "V4-H077",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJCE",
+          "codigo": "198",
+          "nome": "Acolhimento de Embargos de Declaração"
+        },
+        "B": {
+          "tribunal": "TJRO",
+          "codigo": "200",
+          "nome": "Não-Acolhimento de Embargos de Declaração"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJRO",
+        "codigo": "198",
+        "nome": "Acolhimento de Embargos de Declaração",
+        "ocorrencias": 16
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJCE",
+        "codigo": "200",
+        "nome": "Não-Acolhimento de Embargos de Declaração",
+        "ocorrencias": 14
+      }
+    },
+    {
+      "id": "V4-H078",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJPE",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TJPI",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPI",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 1023
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJPE",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 317
+      }
+    },
+    {
+      "id": "V4-H079",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TRT11",
+          "codigo": "26",
+          "nome": "Distribuição"
+        },
+        "B": {
+          "tribunal": "TRT14",
+          "codigo": "36",
+          "nome": "Redistribuição"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT14",
+        "codigo": "26",
+        "nome": "Distribuição",
+        "ocorrencias": 1055
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TRT11",
+        "codigo": "36",
+        "nome": "Redistribuição",
+        "ocorrencias": 99
+      }
+    },
+    {
+      "id": "V4-H080",
+      "experimento": "hard_negatives",
+      "bucket": "negative_clear",
+      "parRejeitado": {
+        "A": {
+          "tribunal": "TJAL",
+          "codigo": "198",
+          "nome": "Acolhimento de Embargos de Declaração"
+        },
+        "B": {
+          "tribunal": "TJAM",
+          "codigo": "200",
+          "nome": "Não-Acolhimento de Embargos de Declaração"
+        }
+      },
+      "casamentoA_em_B": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAM",
+        "codigo": "198",
+        "nome": "Acolhimento de Embargos de Declaração",
+        "ocorrencias": 3
+      },
+      "casamentoB_em_A": {
+        "metodo": "mesmo_codigo_tpu",
+        "confianca": "alta",
+        "tribunal": "TJAL",
+        "codigo": "200",
+        "nome": "Não-Acolhimento de Embargos de Declaração",
+        "ocorrencias": 8
+      }
+    }
+  ],
+  "ataque": {
+    "cacas": 14,
+    "encontrados": 12,
+    "ainda_abertos": 2,
+    "quando": "2026-10-11T17:47:57.713010+00:00"
+  },
+  "ausentes_comprovados": [
+    {
+      "id": "V4-C090",
+      "lado": "A_em_B",
+      "src": {
+        "tribunal": "TJRR",
+        "codigo": "12290",
+        "nome": "Documento Expedido"
+      },
+      "dst": "TJPE",
+      "diagnostico": {
+        "metodo": "ausente_datajud",
+        "confianca": "nula",
+        "tribunal": "TJPE",
+        "codigo": null,
+        "nome": null,
+        "ocorrencias": 0,
+        "motivo": "codigo 12290 com total=0 no DataJud de TJPE; nenhum candidato JEV equivalente",
+        "candidatos_testados": [
+          {
+            "codigo": "12291",
+            "nome": "Movimentação processual",
+            "choice": "nao_equivalente"
+          },
+          {
+            "codigo": "60",
+            "nome": "Expedição de documento",
+            "choice": "nao_equivalente"
+          },
+          {
+            "codigo": "581",
+            "nome": "Documento",
+            "choice": "nao_equivalente"
+          },
+          {
+            "codigo": "11010",
+            "nome": "Mero expediente",
+            "choice": "nao_equivalente"
+          },
+          {
+            "codigo": "12548",
+            "nome": "Expedição de alvará de levantamento",
+            "choice": "nao_equivalente"
+          },
+          {
+            "codigo": "12270",
+            "nome": "Documento",
+            "choice": "nao_equivalente"
+          },
+          {
+            "codigo": "12282",
+            "nome": "Expedida/Certificada",
+            "choice": "nao_equivalente"
+          }
+        ]
+      }
+    },
+    {
+      "id": "V4-C096",
+      "lado": "A_em_B",
+      "src": {
+        "tribunal": "TJPR",
+        "codigo": "12293",
+        "nome": "Ato cumprido pela parte ou interessado (sem atributo)"
+      },
+      "dst": "TJAP",
+      "diagnostico": {
+        "metodo": "ausente_datajud",
+        "confianca": "nula",
+        "tribunal": "TJAP",
+        "codigo": null,
+        "nome": null,
+        "ocorrencias": 0,
+        "motivo": "codigo 12293 com total=0 no DataJud de TJAP; nenhum candidato JEV equivalente",
+        "candidatos_testados": [
+          {
+            "codigo": "12294",
+            "nome": "Comparecimento do Réu/Apenado",
+            "choice": "nao_equivalente"
+          },
+          {
+            "codigo": "11383",
+            "nome": "Ato ordinatório",
+            "choice": "nao_equivalente"
+          },
+          {
+            "codigo": "12142",
+            "nome": "Mudança de Parte",
+            "choice": "nao_equivalente"
+          },
+          {
+            "codigo": "12065",
+            "nome": "Cumprimento de Suspensão ou Sobrestamento",
+            "choice": "nao_equivalente"
+          },
+          {
+            "codigo": "12066",
+            "nome": "Cumprimento de Levantamento da Suspensão ",
+            "choice": "nao_equivalente"
+          },
+          {
+            "codigo": "221",
+            "nome": "Procedência em Parte",
+            "choice": "nao_equivalente"
+          },
+          {
+            "codigo": "11411",
+            "nome": "Cumprimento da suspensão condicional do processo",
+            "choice": "nao_equivalente"
+          },
+          {
+            "codigo": "196",
+            "nome": "Extinção da execução ou do cumprimento da sentença",
+            "choice": "nao_equivalente"
+          },
+          {
+            "codigo": "11406",
+            "nome": "Procedência em parte do pedido e improcedência do pedido contraposto",
+            "choice": "nao_equivalente"
+          },
+          {
+            "codigo": "12330",
+            "nome": "Pedido conhecido em parte e procedente em parte",
+            "choice": "nao_equivalente"
+          },
+          {
+            "codigo": "871",
+            "nome": "Acolhimento em parte de Embargos de Declaração",
+            "choice": "nao_equivalente"
+          },
+          {
+            "codigo": "11010",
+            "nome": "Mero expediente",
+            "choice": "nao_equivalente"
+          }
+        ]
+      }
+    }
+  ]
+}

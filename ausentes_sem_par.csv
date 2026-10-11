@@ -1,0 +1,3 @@
+id,lado,tribunal_origem,codigo,nome,tribunal_alvo,motivo
+V4-C090,A_em_B,TJRR,12290,Documento Expedido,TJPE,codigo 12290 com total=0 no DataJud de TJPE; nenhum candidato JEV equivalente
+V4-C096,A_em_B,TJPR,12293,Ato cumprido pela parte ou interessado (sem atributo),TJAP,codigo 12293 com total=0 no DataJud de TJAP; nenhum candidato JEV equivalente

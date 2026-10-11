@@ -1,0 +1,17 @@
+ZELLU — arquivos para GitHub Pages
+=================================
+
+1. No repo https://github.com/arthur-ffranca/juridical_taxonomy
+   - faça upload de TODO o conteúdo DESTA pasta na raiz (branch main)
+   - inclua pastas ocultas: .nojekyll e _next
+
+2. Settings → Pages:
+   - Source: Deploy from a branch
+   - Branch: main
+   - Folder: / (root)
+   - Save
+
+3. Aguarde 1–2 min e abra:
+   https://arthur-ffranca.github.io/juridical_taxonomy/
+
+O arquivo .nojekyll é obrigatório (sem ele o GitHub ignora a pasta _next).
