@@ -1,0 +1,5 @@
+# The site is a pre-built static export committed at the repo root,
+# so no build step is required.
+[build]
+  command = "echo 'Pre-built static site, no build needed'"
+  publish = "."
