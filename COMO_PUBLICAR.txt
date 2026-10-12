@@ -1,15 +1,13 @@
-ZELLU — arquivos para GitHub Pages
-=================================
+ZELLU — upload para GitHub Pages
+================================
 
 1. No repo https://github.com/arthur-ffranca/juridical_taxonomy
-   - faça upload de TODO o conteúdo DESTA pasta na raiz (branch main)
-   - inclua pastas ocultas: .nojekyll e _next
+   - Upload de TODO o conteúdo DESTA pasta na raiz (branch main)
+   - Inclua: .nojekyll, _next/, fluxo_inicio_fim.json, index.html
 
-2. Settings → Pages:
-   - Source: GitHub Actions
-   - O workflow ".github/workflows/jekyll-gh-pages.yml" publica automaticamente a branch main.
+2. Settings → Pages → Deploy from a branch → main / (root)
 
-3. Aguarde 1–2 min e abra:
-   https://arthur-ffranca.github.io/juridical_taxonomy/
+3. Site: https://arthur-ffranca.github.io/juridical_taxonomy/
+   Fluxo: abra o site e clique em "Fluxo início→fim" (ou #fluxo)
 
-O arquivo .nojekyll é obrigatório (sem ele o GitHub ignora a pasta _next).
+Documentação: DOCUMENTACAO_ZELLU_DEPARA.md
