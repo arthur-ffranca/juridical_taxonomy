@@ -1,0 +1,17 @@
+IMPORTANTE — como atualizar o GitHub Pages
+=========================================
+
+O grafo quebra se misturar _next antigo com _next novo.
+
+1. No repo arthur-ffranca/juridical_taxonomy, APAGUE a pasta _next inteira
+   (e o index.html antigo, se puder).
+2. Suba TODO o conteúdo desta pasta (github-pages-upload) na raiz do main.
+3. Confira que existem:
+   - .nojekyll
+   - fluxo_inicio_fim.json
+   - _next/static/chunks/73.ba8fcffacb815b69.js
+   - _next/static/chunks/704.34676cd056a725ab.js
+
+Depois abra:
+  https://arthur-ffranca.github.io/juridical_taxonomy/
+  Aba "Fluxo início→fim" e aba "Grafo".
